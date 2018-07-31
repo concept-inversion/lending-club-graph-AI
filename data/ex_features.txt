@@ -1,4 +1,3 @@
-loan_status
 out_prncp
 out_prncp_inv
 total_pymnt
