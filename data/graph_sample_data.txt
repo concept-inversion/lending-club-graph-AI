@@ -1,0 +1,700 @@
+,addr_state,annual_inc,application_type,dti,dti_joint,emp_length,emp_title,funded_amnt,home_ownership,issue_d,loan_status,member_id,open_acc,pub_rec,purpose,term,zip_code,open_il_12m,total_bal_il,id
+0,VA,78000.0,Individual,12.03,,10+ years,MANAGEMENT,15000.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 60 months,235xx,,,38098114
+1,CA,58000.0,Individual,14.92,,8 years,Truck Driver Delivery Personel,10400.0,MORTGAGE,Dec-2014,Charged Off,,17.0,0.0,credit_card, 36 months,937xx,,,36805548
+2,MO,63800.0,Individual,18.49,,6 years,Programming Analysis Supervisor,21425.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,credit_card, 60 months,658xx,,,37842129
+3,CA,125000.0,Individual,8.31,,10+ years,Senior Sales Professional,12800.0,MORTGAGE,Dec-2014,Current,,8.0,0.0,car, 60 months,953xx,,,37612354
+4,AZ,50000.0,Individual,34.81,,< 1 year,Technical Specialist,7650.0,RENT,Dec-2014,Charged Off,,11.0,0.0,debt_consolidation, 36 months,850xx,,,37662224
+5,NJ,69000.0,Individual,25.81,,10+ years,Admin Specialist,9600.0,RENT,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,077xx,,,37822187
+6,MN,89000.0,Individual,13.77,,< 1 year,Manufacturing Engineer,2500.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,home_improvement, 36 months,554xx,,,37741884
+7,VA,109777.0,Individual,11.63,,6 years,Foreign Service Officer,16000.0,OWN,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 60 months,201xx,,,37854444
+8,WA,72000.0,Individual,27.03,,10+ years,Teacher,23325.0,RENT,Dec-2014,Charged Off,,14.0,0.0,credit_card, 36 months,982xx,,,36804663
+9,MD,26000.0,Individual,14.36,,2 years,Store Manager,5250.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,208xx,,,37642222
+10,MI,90000.0,Individual,8.44,,8 years,Investment Consultant,10000.0,RENT,Dec-2014,Charged Off,,5.0,0.0,debt_consolidation, 36 months,483xx,,,37701596
+11,FL,60000.0,Individual,22.42,,10+ years,Sales,12975.0,RENT,Dec-2014,Charged Off,,11.0,0.0,house, 36 months,331xx,,,37800722
+12,NY,75000.0,Individual,23.63,,10+ years,Deputy sheriff,17000.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,144xx,,,37682226
+13,IL,55000.0,Individual,29.5,,10+ years,Paralegal,21075.0,MORTGAGE,Dec-2014,Current,,14.0,0.0,debt_consolidation, 60 months,606xx,,,37712169
+14,KY,120000.0,Individual,6.87,,10+ years,Assistant manager,6000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,0.0,home_improvement, 36 months,403xx,,,37742129
+15,NY,32200.0,Individual,22.14,,8 years,practice plan associate,2000.0,RENT,Dec-2014,Fully Paid,,10.0,1.0,credit_card, 36 months,112xx,,,37742142
+16,CA,60000.0,Individual,9.54,,9 years,Respiratory Therapist,3000.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,medical, 36 months,926xx,,,36520573
+17,AZ,37000.0,Individual,16.19,,7 years,Student Services Coordinator,2000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,other, 36 months,852xx,,,37854423
+18,FL,52000.0,Individual,5.98,,2 years,Sales Rep,2000.0,RENT,Dec-2014,Fully Paid,,3.0,0.0,other, 36 months,329xx,,,37822018
+19,GA,40000.0,Individual,16.23,,5 years,nurse,13550.0,OWN,Dec-2014,Current,,8.0,0.0,debt_consolidation, 60 months,304xx,,,37752109
+20,TX,84000.0,Individual,18.79,,5 years,Director of Operations,7200.0,MORTGAGE,Dec-2014,Current,,11.0,0.0,debt_consolidation, 36 months,760xx,,,36441833
+21,TX,42000.0,Individual,35.68,,10+ years,first grade teacher,14000.0,OWN,Dec-2014,Current,,13.0,0.0,credit_card, 36 months,754xx,,,37611006
+22,MN,60000.0,Individual,18.38,,3 years,Attorney,1000.0,OWN,Dec-2014,Fully Paid,,17.0,0.0,other, 36 months,567xx,,,37822020
+23,CA,20000.0,Individual,14.99,,1 year,office manager,6000.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 36 months,960xx,,,37740199
+24,FL,70000.0,Individual,9.11,,8 years,Education Advising Manager,18000.0,OWN,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 36 months,333xx,,,36280613
+25,IN,21312.0,Individual,5.46,,,,2000.0,RENT,Dec-2014,Fully Paid,,14.0,0.0,medical, 36 months,463xx,,,36109709
+26,IN,42000.0,Individual,18.89,,8 years,Asset Protection,10800.0,MORTGAGE,Dec-2014,Fully Paid,,19.0,0.0,debt_consolidation, 36 months,467xx,,,37791988
+27,CO,108000.0,Individual,23.37,,10+ years,construction foreman,18450.0,MORTGAGE,Dec-2014,Charged Off,,11.0,0.0,home_improvement, 36 months,810xx,,,37822030
+28,FL,67000.0,Individual,16.13,,2 years,Humana Cares Manager,28000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 60 months,336xx,,,37692106
+29,NY,50000.0,Individual,33.99,,9 years,Accounting clerk,4000.0,RENT,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,114xx,,,37832099
+30,TX,48000.0,Individual,17.53,,3 years,Appraiser,15000.0,MORTGAGE,Dec-2014,Current,,8.0,0.0,other, 60 months,770xx,,,37622029
+31,AZ,52000.0,Individual,14.35,,4 years,Teacher,5000.0,MORTGAGE,Dec-2014,Charged Off,,9.0,1.0,debt_consolidation, 36 months,853xx,,,37661949
+32,IL,42000.0,Individual,11.51,,7 years,Store Manager,9600.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,1.0,debt_consolidation, 36 months,629xx,,,37681488
+33,NC,75000.0,Individual,17.71,,< 1 year,Financial Advisor,3625.0,MORTGAGE,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 36 months,273xx,,,37742002
+34,AL,84000.0,Individual,19.73,,10+ years,Fleet Tech III,15000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,1.0,credit_card, 36 months,363xx,,,37631679
+35,LA,31240.0,Individual,15.02,,7 years,Cash Mgmt Clerk,11175.0,RENT,Dec-2014,Current,,9.0,0.0,debt_consolidation, 36 months,704xx,,,37731951
+36,CA,120000.0,Individual,19.21,,10+ years,Senior Software Engineer,21000.0,OWN,Dec-2014,Fully Paid,,5.0,0.0,debt_consolidation, 36 months,958xx,,,37631992
+37,CT,70000.0,Individual,11.91,,8 years,Owner,8000.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 36 months,064xx,,,37681595
+38,NJ,65000.0,Individual,15.36,,< 1 year,High Pressure Plant Tender,17600.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,credit_card, 60 months,077xx,,,37751772
+39,CT,90000.0,Individual,14.67,,3 years,Department Chair Undergraduate Marketing,28000.0,OWN,Dec-2014,Current,,25.0,0.0,debt_consolidation, 60 months,060xx,,,37692004
+40,MS,60000.0,Individual,34.1,,10+ years,E-6/Technical Sergeant,11000.0,MORTGAGE,Dec-2014,Current,,11.0,0.0,debt_consolidation, 36 months,395xx,,,37631762
+41,CO,50000.0,Individual,15.55,,2 years,Community Manager,5675.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,car, 36 months,802xx,,,37791982
+42,FL,19000.0,Individual,26.06,,1 year,Graduate Teaching Assistant,6825.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,328xx,,,37651933
+43,CA,54797.0,Individual,11.05,,10+ years,Accouting Manager,5000.0,RENT,Dec-2014,Current,,7.0,1.0,moving, 36 months,925xx,,,37791971
+44,GA,53800.0,Individual,15.93,,10+ years,Export Analyst,1500.0,RENT,Dec-2014,Current,,4.0,0.0,debt_consolidation, 36 months,303xx,,,37651870
+45,NC,84000.0,Individual,12.83,,< 1 year,Risk Management Program Coordinator,20000.0,MORTGAGE,Dec-2014,Current,,15.0,0.0,debt_consolidation, 60 months,277xx,,,37612142
+46,KS,85000.0,Individual,11.97,,10+ years,operator,3000.0,MORTGAGE,Dec-2014,Fully Paid,,5.0,0.0,debt_consolidation, 36 months,670xx,,,37742008
+47,AL,94000.0,Individual,22.33,,3 years,Senior Logistics Analyst,8000.0,MORTGAGE,Dec-2014,Fully Paid,,24.0,0.0,debt_consolidation, 36 months,358xx,,,10089665
+48,AZ,40000.0,Individual,24.36,,3 years,Pilot,15000.0,RENT,Dec-2014,Current,,7.0,0.0,debt_consolidation, 60 months,853xx,,,37651881
+49,TX,157000.0,Individual,21.73,,10+ years,Associate Director Flight Operations,14000.0,OWN,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 60 months,770xx,,,37811785
+50,NY,95000.0,Individual,20.21,,10+ years,engineer,5000.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,house, 36 months,130xx,,,37802003
+51,FL,40000.0,Individual,25.96,,1 year,Senior Care Coordinator,16000.0,RENT,Dec-2014,Current,,9.0,0.0,debt_consolidation, 60 months,327xx,,,37077753
+52,MN,55000.0,Individual,21.3,,10+ years,administrative assistant,4200.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,560xx,,,37661932
+53,FL,45000.0,Individual,13.47,,9 years,Customerservice,14000.0,RENT,Dec-2014,Charged Off,,20.0,0.0,credit_card, 36 months,331xx,,,37711991
+54,NC,35000.0,Individual,24.45,,7 years,Sgt,2400.0,OWN,Dec-2014,Fully Paid,,8.0,1.0,other, 36 months,283xx,,,37702003
+55,PA,45000.0,Individual,8.54,,2 years,Industrial Worker,18000.0,OWN,Dec-2014,Fully Paid,,18.0,0.0,credit_card, 36 months,196xx,,,37641966
+56,OH,45000.0,Individual,29.55,,10+ years,machinist,1000.0,MORTGAGE,Dec-2014,Current,,14.0,0.0,other, 36 months,452xx,,,37692013
+57,FL,80000.0,Individual,26.2,,10+ years,RN,24000.0,MORTGAGE,Dec-2014,Fully Paid,,22.0,0.0,credit_card, 36 months,324xx,,,37661950
+58,UT,60000.0,Individual,28.78,,4 years,Nurse,12000.0,RENT,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 60 months,841xx,,,37791945
+59,GA,100000.0,Individual,24.7,,10+ years,Teacher/Admin,20000.0,MORTGAGE,Dec-2014,Fully Paid,,5.0,0.0,credit_card, 36 months,300xx,,,37661936
+60,AR,46800.0,Individual,20.79,,10+ years,dispatch supv,20975.0,MORTGAGE,Dec-2014,Current,,4.0,0.0,home_improvement, 60 months,728xx,,,37641656
+61,MD,34000.0,Individual,28.77,,4 years,Nanny,4500.0,OWN,Dec-2014,Charged Off,,18.0,1.0,major_purchase, 36 months,210xx,,,37791995
+62,IL,133995.0,Individual,9.21,,10+ years,"Manager, Information Technology",32800.0,OWN,Dec-2014,Current,,10.0,0.0,credit_card, 60 months,600xx,,,37782066
+63,NJ,32000.0,Individual,38.86,,4 years,HEAD TELLER,5000.0,RENT,Dec-2014,Fully Paid,,17.0,0.0,debt_consolidation, 36 months,076xx,,,37612144
+64,AL,60400.0,Individual,33.66,,10+ years,"Exec Budget Coord, Acad",10975.0,OWN,Dec-2014,Charged Off,,22.0,0.0,debt_consolidation, 60 months,368xx,,,37841931
+65,KY,75000.0,Individual,19.33,,5 years,Financial Institution Specialist,10000.0,MORTGAGE,Dec-2014,Fully Paid,,14.0,0.0,credit_card, 36 months,402xx,,,37610751
+66,HI,81200.0,Individual,29.38,,8 years,Weather forecaster,8750.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,moving, 36 months,967xx,,,37831998
+67,MO,32000.0,Individual,23.78,,1 year,Psych Therapyst ,9000.0,RENT,Dec-2014,Current,,8.0,0.0,debt_consolidation, 36 months,631xx,,,37791865
+68,TX,42000.0,Individual,11.03,,2 years,International Adviser,6000.0,RENT,Dec-2014,Fully Paid,,17.0,0.0,debt_consolidation, 36 months,787xx,,,37612112
+69,NM,48500.0,Individual,12.99,,6 years,Milk Lab Manager,21000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 60 months,881xx,,,37720651
+70,OH,117000.0,Individual,25.65,,10+ years,911 Director,10000.0,MORTGAGE,Dec-2014,Current,,11.0,0.0,debt_consolidation, 36 months,439xx,,,37601829
+71,FL,60000.0,Individual,31.14,,5 years,relationship manager,27525.0,RENT,Dec-2014,Fully Paid,,17.0,0.0,debt_consolidation, 60 months,333xx,,,37802030
+72,VA,42500.0,Individual,33.21,,5 years,Technologist,2400.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,232xx,,,37761127
+73,NY,82000.0,Individual,15.1,,10+ years,Business Manager,12000.0,RENT,Dec-2014,Fully Paid,,12.0,1.0,debt_consolidation, 36 months,130xx,,,37721473
+74,CA,40000.0,Individual,29.33,,6 years,Production Assistant,4600.0,RENT,Dec-2014,Fully Paid,,13.0,1.0,debt_consolidation, 36 months,900xx,,,37782131
+75,NY,60000.0,Individual,33.62,,8 years,Accountant,24000.0,RENT,Dec-2014,Current,,27.0,0.0,debt_consolidation, 60 months,117xx,,,36890155
+76,VA,45800.0,Individual,23.45,,1 year,loan officer,6400.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 36 months,201xx,,,37831974
+77,IL,43000.0,Individual,13.86,,8 years,Project Manager,18000.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,620xx,,,37681956
+78,TX,155000.0,Individual,15.23,,10+ years,Associate Professor,24000.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,credit_card, 36 months,774xx,,,36400279
+79,AZ,75000.0,Individual,5.68,,3 years,Customer Service Manager,21000.0,MORTGAGE,Dec-2014,Current,,8.0,0.0,credit_card, 36 months,863xx,,,37197554
+80,VA,109000.0,Individual,24.69,,2 years,Cybersecuriity specialst,2800.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,home_improvement, 36 months,234xx,,,37691930
+81,NY,41000.0,Individual,17.77,,10+ years,Doorman,13375.0,RENT,Dec-2014,Current,,5.0,0.0,credit_card, 60 months,104xx,,,36803735
+82,NH,45000.0,Individual,33.2,,3 years,Iron worker/ welder,15000.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 36 months,032xx,,,37801983
+83,TX,48000.0,Individual,23.58,,3 years,Mechanic,13000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,789xx,,,37681948
+84,VA,78800.0,Individual,10.94,,7 years,Consultant,35000.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,223xx,,,37691945
+85,MD,385000.0,Individual,18.03,,4 years,Physician,35000.0,MORTGAGE,Dec-2014,Fully Paid,,21.0,0.0,credit_card, 36 months,210xx,,,37621910
+86,MI,66000.0,Individual,28.17,,10+ years,"Manager, Regulatory",15000.0,MORTGAGE,Dec-2014,Fully Paid,,14.0,0.0,debt_consolidation, 36 months,481xx,,,37601999
+87,TN,25000.0,Individual,15.94,,5 years,Front Desk,7500.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,379xx,,,37701933
+88,FL,16344.0,Individual,16.27,,,,5500.0,RENT,Dec-2014,Charged Off,,6.0,0.0,debt_consolidation, 36 months,331xx,,,37841841
+89,AL,55000.0,Individual,20.72,,6 years,buyer,19200.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 60 months,356xx,,,37671926
+90,TX,74300.0,Individual,14.02,,7 years,IT specialist,12000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 60 months,787xx,,,37711908
+91,CA,99789.0,Individual,19.69,,5 years,occupational therapist,28000.0,RENT,Dec-2014,Current,,14.0,0.0,debt_consolidation, 36 months,907xx,,,37691941
+92,FL,55000.0,Individual,7.42,,2 years,Logistics Team Lead,24000.0,OWN,Dec-2014,Fully Paid,,8.0,0.0,home_improvement, 60 months,337xx,,,37681444
+93,MN,48000.0,Individual,24.9,,2 years,Vocational Rehabilitation Counselor,15600.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 60 months,560xx,,,37831861
+94,TX,45000.0,Individual,22.42,,4 years,LVN,5000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,1.0,debt_consolidation, 36 months,750xx,,,37841743
+95,MA,74500.0,Individual,8.05,,10+ years,Clinical Data Lead,22200.0,RENT,Dec-2014,Charged Off,,7.0,0.0,debt_consolidation, 60 months,015xx,,,37752007
+96,FL,29000.0,Individual,35.64,,10+ years,Dept. Manager,10375.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 36 months,347xx,,,37761915
+97,IL,100000.0,Individual,21.64,,5 years,Sales Manager,5000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,601xx,,,37701906
+98,CT,108150.0,Individual,25.61,,5 years,Associate,15000.0,MORTGAGE,Dec-2014,Current,,13.0,0.0,debt_consolidation, 36 months,064xx,,,454052
+99,MO,33000.0,Individual,21.2,,10+ years,Housekeeping Supervisor,5000.0,MORTGAGE,Dec-2014,Current,,7.0,1.0,credit_card, 36 months,637xx,,,26298574
+100,WV,32500.0,Individual,28.06,,5 years,HR Supervisor,6000.0,RENT,Dec-2014,Current,,9.0,0.0,debt_consolidation, 36 months,265xx,,,37671937
+101,KS,75000.0,Individual,20.39,,5 years,Principal,19000.0,MORTGAGE,Dec-2014,Current,,10.0,0.0,credit_card, 36 months,672xx,,,34372079
+102,GA,175000.0,Individual,15.78,,1 year,Director,28000.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,credit_card, 60 months,303xx,,,37751999
+103,NJ,91000.0,Individual,2.76,,10+ years,Firefighter,35000.0,RENT,Dec-2014,Fully Paid,,9.0,1.0,debt_consolidation, 60 months,080xx,,,37791882
+104,NY,109000.0,Individual,22.07,,3 years,director,18000.0,MORTGAGE,Dec-2014,Current,,15.0,0.0,debt_consolidation, 36 months,117xx,,,37800170
+105,MI,26000.0,Individual,28.81,,4 years,Bus Friver,6000.0,MORTGAGE,Dec-2014,Current,,12.0,0.0,debt_consolidation, 36 months,481xx,,,37267592
+106,CO,80000.0,Individual,22.32,,< 1 year,Sr manager,16000.0,MORTGAGE,Dec-2014,Charged Off,,17.0,0.0,debt_consolidation, 36 months,800xx,,,37671924
+107,OH,95000.0,Individual,21.12,,3 years,Application Software Developer,28000.0,MORTGAGE,Dec-2014,Fully Paid,,31.0,0.0,debt_consolidation, 36 months,442xx,,,37741891
+108,SD,92000.0,Individual,16.29,,3 years,Production Manager,5600.0,MORTGAGE,Dec-2014,Fully Paid,,17.0,1.0,debt_consolidation, 36 months,574xx,,,37771886
+109,CA,133000.0,Individual,14.13,,,,3000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,other, 36 months,922xx,,,37691982
+110,GA,59103.0,Individual,34.5,,10+ years,production controller,12600.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,1.0,debt_consolidation, 60 months,310xx,,,37691975
+111,CA,50000.0,Individual,15.45,,1 year,Technical Support Associate,8000.0,RENT,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,951xx,,,37641921
+112,CT,45000.0,Individual,26.75,,9 years,Sales ,8000.0,RENT,Dec-2014,Current,,8.0,0.0,credit_card, 36 months,064xx,,,37621901
+113,NM,52080.0,Individual,7.47,,2 years,Shop Manager ,4800.0,MORTGAGE,Dec-2014,Fully Paid,,5.0,0.0,debt_consolidation, 36 months,871xx,,,37661861
+114,TX,65000.0,Individual,28.31,,4 years,Physical Security,22500.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,762xx,,,37641666
+115,NM,56719.0,Individual,32.67,,10+ years,clerk,16950.0,MORTGAGE,Dec-2014,Charged Off,,32.0,0.0,debt_consolidation, 60 months,871xx,,,37782025
+116,TX,75000.0,Individual,24.4,,10+ years,rn,16375.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,1.0,debt_consolidation, 36 months,750xx,,,37661855
+117,CA,35000.0,Individual,20.07,,10+ years,Monitor tech/secretary,3000.0,OWN,Dec-2014,Fully Paid,,9.0,1.0,other, 36 months,917xx,,,37761908
+118,GA,65000.0,Individual,11.39,,2 years,Truck Driver,5000.0,MORTGAGE,Dec-2014,Charged Off,,10.0,0.0,home_improvement, 36 months,300xx,,,37641959
+119,MA,140000.0,Individual,29.47,,10+ years,manager,21000.0,MORTGAGE,Dec-2014,Current,,17.0,0.0,credit_card, 60 months,015xx,,,37601979
+120,KY,39926.0,Individual,14.07,,2 years,DRP Planner,8000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,home_improvement, 36 months,410xx,,,37681953
+121,NY,21000.0,Individual,19.94,,2 years,Teacher,6700.0,RENT,Dec-2014,Fully Paid,,5.0,0.0,credit_card, 36 months,112xx,,,37721926
+122,GA,140000.0,Individual,18.21,,2 years,Assistant Vice President - Finance,12000.0,MORTGAGE,Dec-2014,Current,,28.0,0.0,credit_card, 60 months,300xx,,,37731902
+123,PA,65000.0,Individual,18.54,,8 years,Furnace Operator,3000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,179xx,,,37771899
+124,NJ,80000.0,Individual,15.97,,10+ years,DC1,18700.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,077xx,,,37701472
+125,MA,68000.0,Individual,27.29,,2 years,Dir. of Community Standards,26000.0,RENT,Dec-2014,Current,,14.0,0.0,debt_consolidation, 36 months,023xx,,,37612040
+126,CO,45000.0,Individual,20.48,,1 year,Credit Analyst,7000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,credit_card, 36 months,802xx,,,37731824
+127,MD,148000.0,Individual,14.79,,10+ years,Senior Analyst,21000.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,207xx,,,37701802
+128,FL,63000.0,Individual,11.81,,2 years,management  ,15000.0,MORTGAGE,Dec-2014,Current,,14.0,0.0,debt_consolidation, 60 months,330xx,,,37771879
+129,MA,70000.0,Individual,15.62,,3 years,Owner,6850.0,RENT,Dec-2014,Current,,22.0,1.0,vacation, 36 months,016xx,,,37641406
+130,TX,53000.0,Individual,21.96,,5 years,Teacher,1200.0,RENT,Dec-2014,Current,,27.0,0.0,credit_card, 36 months,751xx,,,37641837
+131,CA,113000.0,Individual,5.55,,5 years,Region Manager,13400.0,MORTGAGE,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 36 months,928xx,,,37751916
+132,AZ,83000.0,Individual,25.12,,7 years,Engineer,1000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,medical, 36 months,857xx,,,37631861
+133,MI,70000.0,Individual,10.61,,7 years,General Manager,2400.0,RENT,Dec-2014,Fully Paid,,16.0,0.0,debt_consolidation, 36 months,494xx,,,37841820
+134,UT,55000.0,Individual,23.0,,9 years,Workforce Manager,14575.0,RENT,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 36 months,840xx,,,37407156
+135,NJ,73000.0,Individual,6.94,,10+ years,Field Service Engineer,14000.0,MORTGAGE,Dec-2014,Fully Paid,,4.0,0.0,debt_consolidation, 36 months,088xx,,,37831843
+136,CA,105000.0,Individual,10.54,,7 years,sales,16400.0,MORTGAGE,Dec-2014,Fully Paid,,17.0,0.0,other, 36 months,953xx,,,37791794
+137,CA,130000.0,Individual,13.43,,10+ years,Deputy Attorney IV ,8000.0,MORTGAGE,Dec-2014,Current,,12.0,1.0,debt_consolidation, 36 months,916xx,,,37821851
+138,OK,61972.0,Individual,25.25,,10+ years,MANAGER,27200.0,MORTGAGE,Dec-2014,Charged Off,,7.0,4.0,debt_consolidation, 60 months,730xx,,,37631842
+139,VA,70000.0,Individual,27.34,,10+ years,senior chief,22400.0,MORTGAGE,Dec-2014,Charged Off,,9.0,0.0,debt_consolidation, 60 months,234xx,,,37681636
+140,TX,65000.0,Individual,33.57,,10+ years,Quality Documentation Group Leader,22000.0,MORTGAGE,Dec-2014,Current,,15.0,0.0,debt_consolidation, 36 months,782xx,,,37620367
+141,PA,50000.0,Individual,16.47,,2 years,Graphic Designer,20000.0,MORTGAGE,Dec-2014,Charged Off,,9.0,0.0,credit_card, 36 months,189xx,,,37711880
+142,SC,30371.0,Individual,12.02,,10+ years,Circulation Suoervisor,2850.0,MORTGAGE,Dec-2014,Fully Paid,,4.0,0.0,debt_consolidation, 36 months,294xx,,,37821880
+143,SD,24000.0,Individual,10.0,,< 1 year,Program Assistant,4000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,3.0,home_improvement, 36 months,571xx,,,37854137
+144,PA,62000.0,Individual,20.44,,6 years,Infrastructure Architecht,10000.0,RENT,Dec-2014,Fully Paid,,14.0,0.0,debt_consolidation, 36 months,170xx,,,37731834
+145,FL,44200.0,Individual,16.56,,9 years,Adjuster,15850.0,RENT,Dec-2014,Charged Off,,13.0,1.0,credit_card, 36 months,328xx,,,37691888
+146,OR,65000.0,Individual,17.82,,2 years,butcher block supervisor,6150.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,2.0,debt_consolidation, 36 months,975xx,,,37761254
+147,AK,68000.0,Individual,32.09,,10+ years,Assistant Manager,25000.0,RENT,Dec-2014,Current,,14.0,0.0,debt_consolidation, 60 months,995xx,,,37681895
+148,VA,77000.0,Individual,32.68,,10+ years,Superintendent,10000.0,RENT,Dec-2014,Fully Paid,,27.0,0.0,debt_consolidation, 60 months,236xx,,,37661840
+149,PA,125000.0,Individual,23.13,,10+ years,Senior IT Proj Manager,28000.0,MORTGAGE,Dec-2014,Fully Paid,,22.0,0.0,credit_card, 60 months,190xx,,,37631915
+150,MD,100000.0,Individual,7.21,,< 1 year,Systems Engineer,12000.0,RENT,Dec-2014,Fully Paid,,5.0,0.0,debt_consolidation, 36 months,217xx,,,37761067
+151,AZ,35000.0,Individual,26.58,,9 years,Administrative Supervisor,17500.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 36 months,857xx,,,37761825
+152,MD,106500.0,Individual,9.58,,4 years,Contract Specialist,10200.0,MORTGAGE,Dec-2014,Charged Off,,10.0,0.0,medical, 60 months,206xx,,,37651796
+153,CA,50000.0,Individual,13.66,,6 years,Helpdesk L2,3000.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,major_purchase, 36 months,902xx,,,37631862
+154,CA,68000.0,Individual,7.04,,1 year,Communications Manager,7500.0,RENT,Dec-2014,Fully Paid,,7.0,1.0,debt_consolidation, 36 months,949xx,,,37681180
+155,AZ,50000.0,Individual,22.39,,7 years,Manager,6500.0,RENT,Dec-2014,Current,,6.0,0.0,debt_consolidation, 36 months,850xx,,,37700576
+156,CA,37400.0,Individual,15.28,,10+ years,Medical office admin.,10000.0,RENT,Dec-2014,Current,,6.0,1.0,credit_card, 60 months,945xx,,,37831927
+157,MN,85000.0,Individual,14.29,,10+ years,Team Lead,26400.0,MORTGAGE,Dec-2014,Charged Off,,11.0,1.0,debt_consolidation, 60 months,553xx,,,37621870
+158,WA,40000.0,Individual,27.23,,3 years,Registered Nurse,9000.0,RENT,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,981xx,,,37751902
+159,NY,70000.0,Individual,26.81,,10+ years,Administrative Assistant,14400.0,MORTGAGE,Dec-2014,Charged Off,,14.0,1.0,debt_consolidation, 60 months,105xx,,,37781998
+160,TX,91000.0,Individual,10.42,,2 years,Recruiter,18000.0,MORTGAGE,Dec-2014,Charged Off,,11.0,0.0,debt_consolidation, 60 months,750xx,,,37731712
+161,NM,40000.0,Individual,29.07,,10+ years,Teacher,11200.0,RENT,Dec-2014,Current,,9.0,1.0,debt_consolidation, 60 months,880xx,,,12389132
+162,NY,262000.0,Individual,9.26,,10+ years,"eVP, Senior Director",30000.0,MORTGAGE,Dec-2014,Current,,5.0,0.0,credit_card, 60 months,100xx,,,37701788
+163,TX,80000.0,Individual,14.39,,8 years,QA Manager,15000.0,MORTGAGE,Dec-2014,Current,,10.0,0.0,debt_consolidation, 36 months,785xx,,,36039306
+164,TN,48500.0,Individual,14.4,,2 years,Process Engineer,5000.0,OWN,Dec-2014,Current,,10.0,0.0,medical, 36 months,372xx,,,37781682
+165,TX,254000.0,Individual,11.89,,5 years,"Director, Finance",20000.0,MORTGAGE,Dec-2014,Current,,10.0,0.0,home_improvement, 60 months,750xx,,,37651768
+166,WA,27800.0,Individual,24.22,,< 1 year,parks dept.,13825.0,RENT,Dec-2014,Current,,6.0,0.0,debt_consolidation, 60 months,981xx,,,37108024
+167,TX,70000.0,Individual,15.05,,10+ years,sales,2000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,medical, 36 months,751xx,,,37831854
+168,CA,120000.0,Individual,19.94,,10+ years,Captain/Paramedic,24000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,credit_card, 36 months,957xx,,,37641820
+169,TX,44000.0,Individual,5.07,,< 1 year,Teacher,19350.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 60 months,785xx,,,37641816
+170,TX,18868.8,Individual,26.66,,,,5000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,781xx,,,37761758
+171,FL,46300.0,Individual,5.81,,3 years,Branch Manager,17000.0,RENT,Dec-2014,Fully Paid,,4.0,0.0,major_purchase, 36 months,328xx,,,37651728
+172,CT,205000.0,Individual,11.51,,10+ years,Executive IT Leader,21000.0,OWN,Dec-2014,Current,,14.0,0.0,credit_card, 60 months,064xx,,,37791793
+173,PA,45000.0,Individual,34.01,,10+ years,Maintenance,10000.0,MORTGAGE,Dec-2014,Fully Paid,,16.0,0.0,credit_card, 60 months,166xx,,,37821828
+174,CA,150000.0,Individual,6.52,,< 1 year,Senior UI Engineer,35000.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 60 months,945xx,,,37781827
+175,IL,75000.0,Individual,9.68,,7 years,RN,12000.0,MORTGAGE,Dec-2014,Fully Paid,,22.0,0.0,debt_consolidation, 36 months,604xx,,,37641861
+176,AL,72000.0,Individual,16.33,,10+ years,Admin Assistant,35000.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,home_improvement, 36 months,350xx,,,37771373
+177,OR,68000.0,Individual,12.97,,3 years,Construction Scheduler,12000.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 36 months,971xx,,,37854157
+178,SC,50000.0,Individual,9.84,,7 years,IT Manager,5000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 36 months,290xx,,,37831894
+179,NY,58792.0,Individual,16.33,,10+ years,Teacher,14000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 36 months,145xx,,,37661785
+180,VA,60000.0,Individual,35.86,,10+ years,Office Manager,11325.0,MORTGAGE,Dec-2014,Fully Paid,,22.0,0.0,debt_consolidation, 60 months,231xx,,,37720167
+181,PA,62000.0,Individual,22.18,,10+ years,civ. supervisor,19500.0,OWN,Dec-2014,Charged Off,,11.0,0.0,debt_consolidation, 36 months,191xx,,,37681303
+182,CT,46000.0,Individual,31.85,,10+ years,Pricing & Bid coordinator,16475.0,RENT,Dec-2014,Charged Off,,32.0,0.0,debt_consolidation, 60 months,060xx,,,37761813
+183,GA,86500.0,Individual,33.57,,< 1 year,Sales,28000.0,MORTGAGE,Dec-2014,Current,,13.0,0.0,debt_consolidation, 60 months,302xx,,,37317684
+184,PA,37000.0,Individual,20.76,,10+ years,Hat Merchandiser,18500.0,MORTGAGE,Dec-2014,Current,,7.0,0.0,credit_card, 60 months,193xx,,,37801803
+185,AZ,60000.0,Individual,13.12,,1 year,biomedical engineering technologist,19150.0,MORTGAGE,Dec-2014,Fully Paid,,26.0,0.0,other, 36 months,850xx,,,37611935
+186,OH,70000.0,Individual,15.31,,10+ years,Registered Nurse,21000.0,OWN,Dec-2014,Current,,19.0,0.0,debt_consolidation, 60 months,447xx,,,35938486
+187,CA,125000.0,Individual,15.99,,3 years,VP of IT,33950.0,RENT,Dec-2014,Charged Off,,4.0,0.0,small_business, 36 months,902xx,,,37611926
+188,CA,120000.0,Individual,6.73,,2 years,Stationary Engineer,11775.0,RENT,Dec-2014,Current,,11.0,1.0,debt_consolidation, 36 months,953xx,,,37761759
+189,NY,35000.0,Individual,25.99,,3 years,Corporate Representative,10000.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 36 months,114xx,,,37611902
+190,NY,23000.0,Individual,10.91,,4 years,Habilitation Instructor,8250.0,RENT,Dec-2014,Charged Off,,2.0,0.0,debt_consolidation, 36 months,109xx,,,37761762
+191,AZ,34000.0,Individual,31.25,,< 1 year,Verification Specialist,4200.0,RENT,Dec-2014,Fully Paid,,17.0,0.0,other, 36 months,850xx,,,37611953
+192,FL,33000.0,Individual,11.78,,10+ years,DME Tech,13825.0,MORTGAGE,Dec-2014,Charged Off,,11.0,0.0,debt_consolidation, 60 months,322xx,,,37681800
+193,TX,55000.0,Individual,16.23,,4 years,DBA,16000.0,RENT,Dec-2014,Current,,9.0,0.0,medical, 60 months,750xx,,,37781880
+194,TX,90000.0,Individual,26.25,,10+ years,mfg analyst,20000.0,OWN,Dec-2014,Current,,11.0,0.0,other, 36 months,770xx,,,37721789
+195,OR,56000.0,Individual,10.33,,2 years,System Analyst,23475.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,972xx,,,37810302
+196,TX,70000.0,Individual,19.37,,1 year,Senior Field Service Technician,10000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,782xx,,,37751868
+197,CA,32000.0,Individual,19.17,,< 1 year,Branch service specialist ,2000.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,medical, 36 months,939xx,,,37741749
+198,VA,115000.0,Individual,16.63,,3 years,Vice President of Video Services,28000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 36 months,223xx,,,37841668
+199,TX,24000.0,Individual,29.05,,,,3375.0,RENT,Dec-2014,Charged Off,,12.0,1.0,debt_consolidation, 36 months,783xx,,,37791772
+200,TX,34652.0,Individual,20.47,,1 year,machine shop,5000.0,MORTGAGE,Dec-2014,Fully Paid,,14.0,0.0,home_improvement, 36 months,761xx,,,37701767
+201,CO,65550.0,Individual,25.15,,2 years,accounting/budget analyst,8000.0,RENT,Dec-2014,Current,,10.0,0.0,credit_card, 36 months,803xx,,,37691855
+202,IN,50000.0,Individual,33.77,,,,10000.0,MORTGAGE,Dec-2014,Charged Off,,13.0,0.0,debt_consolidation, 60 months,462xx,,,37691828
+203,NY,43000.0,Individual,18.65,,9 years,Maintenance Worker,5000.0,OWN,Dec-2014,Fully Paid,,12.0,0.0,home_improvement, 36 months,100xx,,,37821783
+204,NM,102000.0,Individual,24.49,,10+ years,Engineer,35000.0,MORTGAGE,Dec-2014,Charged Off,,12.0,2.0,debt_consolidation, 60 months,871xx,,,37711779
+205,CA,40000.0,Individual,24.81,,10+ years,technician,11850.0,OWN,Dec-2014,Charged Off,,5.0,0.0,debt_consolidation, 36 months,908xx,,,37611956
+206,MN,63984.0,Individual,27.36,,4 years,Project Manager,3525.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,1.0,debt_consolidation, 36 months,563xx,,,37791739
+207,AR,61000.0,Individual,12.98,,< 1 year,Application Engineer,12000.0,RENT,Dec-2014,Current,,21.0,0.0,debt_consolidation, 36 months,721xx,,,37751688
+208,CA,92500.0,Individual,8.65,,4 years,Broker,8500.0,RENT,Dec-2014,Current,,14.0,2.0,medical, 36 months,927xx,,,37811886
+209,TN,40000.0,Individual,20.98,,9 years,Store manager,8325.0,RENT,Dec-2014,Fully Paid,,4.0,0.0,debt_consolidation, 36 months,370xx,,,37631791
+210,NJ,140000.0,Individual,10.71,,1 year,Senior Director,9500.0,MORTGAGE,Dec-2014,Current,,11.0,0.0,debt_consolidation, 36 months,070xx,,,37791796
+211,CA,83000.0,Individual,3.61,,10+ years,3d artist,6000.0,RENT,Dec-2014,Current,,5.0,0.0,credit_card, 36 months,920xx,,,37611950
+212,TX,160000.0,Individual,6.32,,4 years,Lead Applications,35000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,770xx,,,37811869
+213,KY,60000.0,Individual,24.52,,2 years,Director of Institutional Effectiveness,20000.0,MORTGAGE,Dec-2014,Current,,20.0,0.0,debt_consolidation, 60 months,402xx,,,37660990
+214,CA,125000.0,Individual,11.83,,4 years,Owner/Attorney,21000.0,MORTGAGE,Dec-2014,Current,,14.0,0.0,debt_consolidation, 36 months,920xx,,,37611594
+215,OK,58000.0,Individual,10.76,,9 years,Supply tech ,9000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,735xx,,,37831775
+216,CA,75000.0,Individual,3.12,,2 years,Project Engieer,7000.0,OWN,Dec-2014,Fully Paid,,7.0,0.0,home_improvement, 36 months,902xx,,,37631833
+217,OK,80000.0,Individual,16.77,,10+ years,Manager,24000.0,RENT,Dec-2014,Charged Off,,9.0,1.0,debt_consolidation, 36 months,730xx,,,37801825
+218,AZ,75000.0,Individual,13.57,,10+ years,Pastor,15000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,853xx,,,37731794
+219,LA,80000.0,Individual,15.14,,2 years,Improvement Engineer,7000.0,RENT,Dec-2014,Fully Paid,,16.0,1.0,debt_consolidation, 36 months,707xx,,,37741729
+220,CA,47200.0,Individual,15.56,,5 years,Legal Secretary,3750.0,RENT,Dec-2014,Fully Paid,,15.0,2.0,debt_consolidation, 36 months,919xx,,,37611938
+221,NV,45000.0,Individual,30.67,,5 years,Teacher,12000.0,RENT,Dec-2014,Current,,16.0,0.0,debt_consolidation, 60 months,891xx,,,37831802
+222,NJ,82000.0,Individual,33.63,,3 years,Attorney - Court Executive,35000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 60 months,086xx,,,37781916
+223,MI,65000.0,Individual,25.85,,10+ years,Corrections Transportation Officer,20000.0,RENT,Dec-2014,Current,,13.0,0.0,debt_consolidation, 60 months,497xx,,,37601891
+224,WA,65000.0,Individual,24.45,,< 1 year,Accounting/Retail,18450.0,MORTGAGE,Dec-2014,Current,,6.0,0.0,credit_card, 60 months,980xx,,,37267850
+225,PA,82000.0,Individual,12.81,,3 years,Consultant,13500.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,credit_card, 36 months,191xx,,,37641760
+226,WA,24000.0,Individual,33.7,,3 years,resident Manager,3075.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,1.0,debt_consolidation, 36 months,988xx,,,37701777
+227,GA,29440.0,Individual,14.47,,3 years,Diamond specialist,10000.0,MORTGAGE,Dec-2014,Current,,8.0,0.0,debt_consolidation, 60 months,300xx,,,37701779
+228,LA,20000.0,Individual,14.71,,< 1 year,Bartender,7175.0,OWN,Dec-2014,Charged Off,,9.0,0.0,debt_consolidation, 36 months,708xx,,,37721827
+229,IL,70000.0,Individual,13.24,,10+ years,Gate Inspector,27975.0,OWN,Dec-2014,Fully Paid,,11.0,0.0,other, 60 months,606xx,,,37630954
+230,MA,62000.0,Individual,5.18,,4 years,Server,12000.0,RENT,Dec-2014,Fully Paid,,5.0,0.0,credit_card, 36 months,019xx,,,37831821
+231,NJ,70000.0,Individual,21.19,,5 years,tractor trailer driver,20000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,1.0,home_improvement, 36 months,070xx,,,37821792
+232,NY,96000.0,Individual,14.28,,10+ years,Director of Financial Aid,18000.0,RENT,Dec-2014,Fully Paid,,17.0,0.0,debt_consolidation, 36 months,113xx,,,37741543
+233,NC,45500.0,Individual,25.96,,1 year,Analyst,10000.0,MORTGAGE,Dec-2014,Fully Paid,,19.0,0.0,credit_card, 36 months,276xx,,,37741751
+234,CA,145000.0,Individual,1.85,,5 years,Property Manager,20000.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,home_improvement, 60 months,912xx,,,37711792
+235,NY,78000.0,Individual,17.65,,10+ years,Advisory Data Engineer,24000.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,123xx,,,36421136
+236,NY,40000.0,Individual,25.35,,10+ years,Assistant Manager,6400.0,RENT,Dec-2014,Current,,15.0,0.0,other, 36 months,104xx,,,37671760
+237,TX,101000.0,Individual,22.9,,8 years,"Exec. Director-Inst. Rsch, Planning, & ",25000.0,MORTGAGE,Dec-2014,Fully Paid,,29.0,0.0,debt_consolidation, 60 months,785xx,,,37661707
+238,GA,65000.0,Individual,17.6,,10+ years,Carrier,2000.0,MORTGAGE,Dec-2014,Current,,7.0,0.0,major_purchase, 36 months,310xx,,,37691807
+239,VA,117000.0,Individual,10.96,,10+ years,Policy Analyst,22000.0,RENT,Dec-2014,Fully Paid,,11.0,1.0,debt_consolidation, 60 months,201xx,,,37751847
+240,OH,160000.0,Individual,30.07,,10+ years,Air Traffic Controller,35000.0,MORTGAGE,Dec-2014,Fully Paid,,26.0,0.0,credit_card, 36 months,440xx,,,37631787
+241,TX,67650.0,Individual,16.5,,10+ years,Bursar,23000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 60 months,780xx,,,36039943
+242,TX,40000.0,Individual,17.83,,1 year,Warehouse Specialist,10000.0,RENT,Dec-2014,Fully Paid,,14.0,0.0,other, 36 months,760xx,,,37831763
+243,CO,120000.0,Individual,26.95,,10+ years,Project Manager,31000.0,RENT,Dec-2014,Charged Off,,11.0,0.0,debt_consolidation, 60 months,800xx,,,37601834
+244,CA,130000.0,Individual,13.46,,7 years,Finance Director,22500.0,MORTGAGE,Dec-2014,Fully Paid,,17.0,0.0,home_improvement, 36 months,906xx,,,37821666
+245,CA,50000.0,Individual,21.97,,< 1 year,Relationship Banker ,4000.0,RENT,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,946xx,,,21149906
+246,VT,42000.0,Individual,29.37,,,,2000.0,OWN,Dec-2014,Fully Paid,,9.0,0.0,other, 36 months,057xx,,,37731677
+247,FL,45000.0,Individual,14.53,,10+ years,Teacher,3000.0,OWN,Dec-2014,Fully Paid,,12.0,0.0,credit_card, 36 months,331xx,,,37781367
+248,GA,94000.0,Individual,24.63,,2 years,Business Analyst,19200.0,RENT,Dec-2014,Fully Paid,,19.0,1.0,debt_consolidation, 36 months,303xx,,,37611805
+249,LA,50000.0,Individual,38.74,,4 years,mate,16950.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 60 months,700xx,,,37781802
+250,CA,80000.0,Individual,6.14,,5 years,office manager,13425.0,MORTGAGE,Dec-2014,Current,,15.0,0.0,debt_consolidation, 60 months,935xx,,,37701740
+251,CT,93000.0,Individual,16.49,,10+ years,Purchasing Manager,6000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,other, 36 months,069xx,,,37841694
+252,GA,60000.0,Individual,17.2,,7 years,Cad Operator ,2000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,300xx,,,37661655
+253,MA,57000.0,Individual,15.37,,10+ years,dairy clerk,26150.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 60 months,020xx,,,37801612
+254,DC,66000.0,Individual,21.74,,4 years,School Counselor,2500.0,RENT,Dec-2014,Fully Paid,,12.0,0.0,medical, 36 months,200xx,,,37701724
+255,OH,60000.0,Individual,5.74,,10+ years,IA,12000.0,MORTGAGE,Dec-2014,Fully Paid,,4.0,0.0,credit_card, 60 months,450xx,,,33341779
+256,NY,65000.0,Individual,24.8,,10+ years,Engineering Technician,23925.0,MORTGAGE,Dec-2014,Current,,10.0,0.0,debt_consolidation, 60 months,125xx,,,35823892
+257,TX,58000.0,Individual,23.17,,10+ years,LOGISTICS,5500.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,752xx,,,37601820
+258,GA,47000.0,Individual,4.16,,4 years,Helpdesk Supervisor,9600.0,RENT,Dec-2014,Fully Paid,,4.0,0.0,credit_card, 36 months,300xx,,,37601819
+259,NJ,80000.0,Individual,11.57,,3 years,Police Officer,12000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,070xx,,,37771756
+260,CA,64000.0,Individual,13.73,,10+ years,store manager,15000.0,OWN,Dec-2014,Current,,14.0,0.0,debt_consolidation, 60 months,913xx,,,37630961
+261,NJ,60000.0,Individual,25.0,,10+ years,Superintendent ,13225.0,OWN,Dec-2014,Charged Off,,7.0,0.0,debt_consolidation, 60 months,089xx,,,37801349
+262,CT,120000.0,Individual,1.42,,10+ years,Senior Inspector,27000.0,OWN,Dec-2014,Current,,14.0,0.0,home_improvement, 60 months,067xx,,,37820667
+263,RI,66000.0,Individual,26.49,,10+ years,Accounting Office Manager,6000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,028xx,,,37811804
+264,NY,148000.0,Individual,5.12,,7 years,General Manager,35000.0,OWN,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 36 months,140xx,,,37811787
+265,WA,46000.0,Individual,26.77,,3 years,Shift Manager,15000.0,RENT,Dec-2014,Charged Off,,6.0,2.0,credit_card, 36 months,984xx,,,37791691
+266,CA,68200.0,Individual,17.75,,7 years,Office Administrator,12000.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,other, 36 months,944xx,,,37751794
+267,FL,90000.0,Individual,14.8,,9 years,sales ,10000.0,MORTGAGE,Dec-2014,Current,,11.0,0.0,credit_card, 60 months,331xx,,,37801815
+268,KS,51000.0,Individual,12.75,,< 1 year,Machinist,12800.0,MORTGAGE,Dec-2014,Fully Paid,,5.0,1.0,debt_consolidation, 36 months,660xx,,,37650565
+269,NY,130000.0,Individual,24.78,,< 1 year,Senior Consultant,34000.0,MORTGAGE,Dec-2014,Fully Paid,,25.0,0.0,credit_card, 36 months,114xx,,,31396726
+270,NC,125000.0,Individual,11.55,,10+ years,Advanced Field Sales Rep,4000.0,RENT,Dec-2014,Fully Paid,,5.0,0.0,other, 36 months,282xx,,,37821702
+271,CA,45000.0,Individual,17.07,,5 years,sales,13475.0,RENT,Dec-2014,Charged Off,,20.0,0.0,debt_consolidation, 36 months,921xx,,,37751815
+272,WA,47207.0,Individual,27.13,,3 years,Middle School Teacher,14000.0,MORTGAGE,Dec-2014,Fully Paid,,21.0,0.0,debt_consolidation, 36 months,993xx,,,37831666
+273,PA,60000.0,Individual,9.56,,< 1 year,Teacher,2600.0,OWN,Dec-2014,Fully Paid,,12.0,0.0,credit_card, 36 months,191xx,,,37811463
+274,CA,55664.0,Individual,12.46,,10+ years,Faculty,23325.0,OWN,Dec-2014,Fully Paid,,14.0,0.0,home_improvement, 60 months,900xx,,,37711705
+275,VA,40000.0,Individual,25.17,,5 years,Server,11500.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,220xx,,,37621731
+276,IN,60000.0,Individual,27.76,,9 years,RDH,20000.0,RENT,Dec-2014,Fully Paid,,25.0,0.0,credit_card, 36 months,466xx,,,37761717
+277,WA,26880.0,Individual,22.59,,< 1 year,Branch Office Administrator,7675.0,RENT,Dec-2014,Charged Off,,4.0,0.0,debt_consolidation, 36 months,983xx,,,37681700
+278,TX,20000.0,Individual,6.78,,1 year,Catering driver,7000.0,RENT,Dec-2014,Fully Paid,,3.0,0.0,car, 36 months,752xx,,,37691744
+279,CA,75000.0,Individual,23.05,,9 years,Owner/Principlal,25000.0,MORTGAGE,Dec-2014,Fully Paid,,17.0,0.0,debt_consolidation, 60 months,926xx,,,37711739
+280,CA,50000.0,Individual,37.25,,6 years,CEO,9000.0,RENT,Dec-2014,Fully Paid,,7.0,2.0,small_business, 36 months,902xx,,,37781808
+281,MI,44000.0,Individual,30.03,,8 years,Office Manager,10000.0,MORTGAGE,Dec-2014,Current,,12.0,1.0,debt_consolidation, 36 months,494xx,,,37751780
+282,CA,75132.0,Individual,6.01,,8 years,E-6,7500.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,moving, 36 months,921xx,,,37701695
+283,NY,38000.0,Individual,8.39,,1 year,Behavioral Heath Associate,6000.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,112xx,,,37821675
+284,SC,28500.0,Individual,7.12,,2 years,Marketing and Sales Manager,4800.0,OWN,Dec-2014,Fully Paid,,2.0,0.0,debt_consolidation, 36 months,294xx,,,37771728
+285,PA,80000.0,Individual,25.46,,3 years,Business Development,20000.0,RENT,Dec-2014,Fully Paid,,13.0,2.0,credit_card, 60 months,190xx,,,37671710
+286,TX,91000.0,Individual,10.02,,< 1 year,Superintendent,12000.0,RENT,Dec-2014,Current,,9.0,0.0,debt_consolidation, 60 months,761xx,,,37741668
+287,IL,39500.0,Individual,14.71,,1 year,Content Producer,3500.0,RENT,Dec-2014,Fully Paid,,13.0,0.0,vacation, 36 months,606xx,,,37741676
+288,LA,26000.0,Individual,13.43,,5 years,Research Assistant,2000.0,RENT,Dec-2014,Fully Paid,,13.0,0.0,other, 36 months,708xx,,,37771735
+289,TX,47500.0,Individual,39.21,,8 years,Senior Pastor,16150.0,OWN,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,756xx,,,37811728
+290,NJ,98000.0,Individual,11.56,,3 years,Operations,10000.0,RENT,Dec-2014,Fully Paid,,5.0,0.0,debt_consolidation, 36 months,074xx,,,37610762
+291,MI,21600.0,Individual,18.78,,2 years,Parapro,2000.0,OWN,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 36 months,481xx,,,37711575
+292,IN,67000.0,Individual,12.93,,3 years,Supply Chain Analyst,19000.0,MORTGAGE,Dec-2014,Fully Paid,,19.0,0.0,debt_consolidation, 36 months,463xx,,,11335677
+293,NC,32500.0,Individual,30.95,,10+ years,SERVICE TECH,11675.0,RENT,Dec-2014,Current,,17.0,0.0,debt_consolidation, 36 months,282xx,,,37791711
+294,NC,23000.0,Individual,8.82,,3 years,Housekeeper,6000.0,RENT,Dec-2014,Fully Paid,,8.0,1.0,credit_card, 36 months,282xx,,,37611597
+295,FL,64000.0,Individual,15.09,,4 years,Compliance Officer,16000.0,MORTGAGE,Dec-2014,Fully Paid,,20.0,0.0,credit_card, 60 months,333xx,,,37811578
+296,CA,60000.0,Individual,10.26,,7 years,patient care tech,2650.0,OWN,Dec-2014,Current,,19.0,0.0,credit_card, 36 months,939xx,,,36733172
+297,MO,50000.0,Individual,16.95,,3 years,Parts Specialist,13000.0,MORTGAGE,Dec-2014,Current,,14.0,0.0,other, 60 months,654xx,,,37791710
+298,SC,200000.0,Individual,21.39,,10+ years,Vice President,15000.0,MORTGAGE,Dec-2014,Current,,7.0,0.0,debt_consolidation, 36 months,297xx,,,37651670
+299,NV,40000.0,Individual,12.45,,7 years,Office Manager,4000.0,OWN,Dec-2014,Fully Paid,,7.0,1.0,home_improvement, 36 months,891xx,,,37841659
+300,NY,75000.0,Individual,5.87,,4 years,RN Supervisor,12000.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,credit_card, 36 months,113xx,,,37681714
+301,AL,60000.0,Individual,28.58,,4 years,Pilot,3000.0,RENT,Dec-2014,Fully Paid,,12.0,0.0,vacation, 36 months,363xx,,,37751822
+302,IL,65000.0,Individual,27.88,,8 years,semi driver,20000.0,MORTGAGE,Dec-2014,Charged Off,,12.0,1.0,credit_card, 36 months,627xx,,,37621715
+303,LA,59000.0,Individual,13.73,,7 years,Claims Manager,10000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 60 months,705xx,,,37711374
+304,TX,580000.0,Individual,2.12,,8 years,Realtor,15000.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,home_improvement, 36 months,787xx,,,37821698
+305,TX,50000.0,Individual,18.19,,3 years,Managing Partner,20000.0,MORTGAGE,Dec-2014,Fully Paid,,4.0,1.0,debt_consolidation, 60 months,782xx,,,37841687
+306,FL,65000.0,Individual,29.86,,2 years,Legal Assistant,2000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,credit_card, 36 months,327xx,,,37731698
+307,IL,90000.0,Individual,13.83,,5 years,account executive,35000.0,RENT,Dec-2014,Charged Off,,10.0,0.0,debt_consolidation, 60 months,607xx,,,37761751
+308,IN,35000.0,Individual,22.94,,2 years,Administrative Assistant,7000.0,RENT,Dec-2014,Fully Paid,,6.0,2.0,home_improvement, 36 months,463xx,,,37641687
+309,TN,55000.0,Individual,18.63,,8 years,Teacher,5000.0,MORTGAGE,Dec-2014,Current,,11.0,0.0,debt_consolidation, 36 months,373xx,,,37601791
+310,FL,67000.0,Individual,37.54,,10+ years,Certified School Counselor,19425.0,MORTGAGE,Dec-2014,Fully Paid,,20.0,0.0,debt_consolidation, 36 months,321xx,,,37821701
+311,FL,58000.0,Individual,34.93,,3 years,cook,18450.0,MORTGAGE,Dec-2014,Fully Paid,,19.0,0.0,credit_card, 60 months,330xx,,,37741195
+312,AZ,203000.0,Individual,19.61,,10+ years,Executive Director,20000.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,credit_card, 36 months,850xx,,,37711652
+313,LA,90226.0,Individual,29.82,,10+ years,Financial Manager,11200.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 36 months,710xx,,,37690495
+314,MI,38550.0,Individual,25.64,,1 year,Facility Coordinator,12000.0,OWN,Dec-2014,Charged Off,,9.0,0.0,credit_card, 60 months,481xx,,,37661596
+315,AL,48000.0,Individual,10.65,,10+ years,Admin Asst,3500.0,MORTGAGE,Dec-2014,Fully Paid,,16.0,0.0,car, 36 months,361xx,,,37751726
+316,WA,60000.0,Individual,13.24,,10+ years,Permanent AB,22000.0,MORTGAGE,Dec-2014,Fully Paid,,5.0,0.0,credit_card, 36 months,994xx,,,37781726
+317,WA,35000.0,Individual,7.82,,< 1 year,Personal Banker,12000.0,RENT,Dec-2014,Fully Paid,,4.0,0.0,credit_card, 36 months,980xx,,,37731640
+318,GA,70000.0,Individual,20.09,,3 years,Sr. Director of Recruiting ,15400.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 60 months,305xx,,,37691114
+319,IL,90000.0,Individual,13.09,,10+ years,Business consultant trainer,13000.0,RENT,Dec-2014,Current,,8.0,0.0,debt_consolidation, 36 months,600xx,,,37681655
+320,MN,30000.0,Individual,35.52,,2 years,owner/operator,3000.0,RENT,Dec-2014,Fully Paid,,14.0,0.0,small_business, 36 months,560xx,,,37731642
+321,FL,44000.0,Individual,29.35,,5 years,Office Manager,6500.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,331xx,,,37621640
+322,NC,19164.0,Individual,9.97,,,,6725.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,281xx,,,37631470
+323,CT,69500.0,Individual,13.66,,10+ years,Project Manager,6400.0,MORTGAGE,Dec-2014,Fully Paid,,23.0,0.0,debt_consolidation, 36 months,060xx,,,37077809
+324,CA,84000.0,Individual,27.76,,10+ years,Teacher,5000.0,RENT,Dec-2014,Fully Paid,,19.0,0.0,credit_card, 36 months,925xx,,,37601725
+325,IL,36000.0,Individual,30.03,,8 years,Field Service Tech,5000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,0.0,medical, 36 months,601xx,,,37681666
+326,OH,85000.0,Individual,18.75,,< 1 year,"Associate Director, Relationship Mgmt.",35000.0,MORTGAGE,Dec-2014,Fully Paid,,6.0,0.0,credit_card, 36 months,442xx,,,37781781
+327,TX,75000.0,Individual,21.74,,10+ years,Asst. Section Head,10000.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,car, 36 months,778xx,,,37217579
+328,NJ,63000.0,Individual,14.53,,6 years,Client Services Account Manager,5700.0,RENT,Dec-2014,Fully Paid,,13.0,0.0,other, 36 months,070xx,,,37821608
+329,VA,40000.0,Individual,16.8,,1 year,customer service representative,10000.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,other, 36 months,231xx,,,37831402
+330,NV,80000.0,Individual,15.54,,8 years,Police Officer,12000.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 36 months,895xx,,,37801656
+331,WV,44000.0,Individual,10.28,,10+ years,Sales,10000.0,OWN,Dec-2014,Fully Paid,,11.0,1.0,credit_card, 60 months,260xx,,,37177831
+332,IN,75000.0,Individual,12.98,,10+ years,Manufacturing Engineer,2500.0,OWN,Dec-2014,Fully Paid,,5.0,1.0,other, 36 months,462xx,,,37811713
+333,NM,32000.0,Individual,8.89,,7 years,Technology Coordinator,8000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,871xx,,,37701628
+334,MI,64000.0,Individual,31.56,,10+ years,Department Manager,12000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,1.0,home_improvement, 36 months,481xx,,,36802944
+335,VA,95000.0,Individual,23.31,,4 years,IT SPECIALIST,1000.0,MORTGAGE,Dec-2014,Fully Paid,,20.0,0.0,other, 36 months,221xx,,,37821618
+336,MI,64000.0,Individual,25.78,,10+ years,Administrative Assistant,16000.0,MORTGAGE,Dec-2014,Current,,13.0,0.0,debt_consolidation, 60 months,486xx,,,37640708
+337,NC,32000.0,Individual,27.79,,10+ years,Data Manager,13400.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,275xx,,,37641457
+338,WA,85000.0,Individual,10.22,,4 years,Business Analyst,24000.0,MORTGAGE,Dec-2014,Charged Off,,7.0,0.0,debt_consolidation, 60 months,983xx,,,37841570
+339,NJ,220000.0,Individual,9.99,,< 1 year,Vice President - Control Manager,25000.0,MORTGAGE,Dec-2014,Current,,15.0,0.0,debt_consolidation, 60 months,080xx,,,37751107
+340,IL,100000.0,Individual,33.03,,< 1 year,Senior Compliance Manager,7000.0,RENT,Dec-2014,Fully Paid,,18.0,0.0,debt_consolidation, 36 months,600xx,,,37831639
+341,OR,95000.0,Individual,24.25,,2 years,Service Delivery Manager - Nike,12000.0,MORTGAGE,Dec-2014,Charged Off,,14.0,0.0,debt_consolidation, 36 months,970xx,,,37731637
+342,LA,115000.0,Individual,4.82,,2 years,Diabetes Care Specialist ,6000.0,MORTGAGE,Dec-2014,Fully Paid,,3.0,0.0,debt_consolidation, 36 months,705xx,,,37711640
+343,WA,35000.0,Individual,16.91,,2 years,Secretary,7000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,993xx,,,37701646
+344,FL,46000.0,Individual,15.45,,10+ years,Administrative Specialist,21000.0,MORTGAGE,Dec-2014,Fully Paid,,19.0,0.0,debt_consolidation, 36 months,323xx,,,17343158
+345,CA,79500.0,Individual,20.72,,10+ years,Staff Information Systems Analyst,35000.0,RENT,Dec-2014,Current,,17.0,1.0,debt_consolidation, 60 months,958xx,,,37671673
+346,VA,102000.0,Individual,16.14,,8 years,Community Housing Officer,30000.0,MORTGAGE,Dec-2014,Current,,12.0,0.0,debt_consolidation, 60 months,201xx,,,37631658
+347,UT,65000.0,Individual,12.17,,2 years,Marketing Executive,1500.0,OWN,Dec-2014,Fully Paid,,8.0,0.0,car, 36 months,846xx,,,37721682
+348,NJ,50478.0,Individual,6.22,,1 year,School Psychologist ,14000.0,MORTGAGE,Dec-2014,Current,,22.0,0.0,home_improvement, 60 months,070xx,,,37721677
+349,NJ,65000.0,Individual,19.89,,8 years,teacher,6000.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,medical, 36 months,079xx,,,37601716
+350,AZ,100000.0,Individual,7.87,,10+ years,Field tech,12000.0,MORTGAGE,Dec-2014,Current,,10.0,0.0,credit_card, 60 months,853xx,,,37067173
+351,VA,66000.0,Individual,9.76,,5 years,Office manager/bookkeeper,10000.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 60 months,220xx,,,36803487
+352,IN,54000.0,Individual,15.2,,< 1 year,Financial Analyst,12000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,credit_card, 36 months,460xx,,,37691724
+353,CA,150000.0,Individual,10.63,,< 1 year,Software Engineer,15000.0,RENT,Dec-2014,Current,,8.0,0.0,credit_card, 60 months,900xx,,,37641672
+354,CA,48000.0,Individual,23.08,,9 years,specialty lab technician,15000.0,MORTGAGE,Dec-2014,Charged Off,,9.0,0.0,other, 36 months,920xx,,,37127479
+355,VA,42000.0,Individual,28.0,,4 years,Radio Frequency Engineer,10500.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,240xx,,,37077276
+356,FL,80000.0,Individual,14.12,,10+ years,Instructor,13000.0,RENT,Dec-2014,Fully Paid,,10.0,1.0,debt_consolidation, 36 months,331xx,,,37711641
+357,TN,50000.0,Individual,31.65,,10+ years,Owner/master groomer,10000.0,OWN,Dec-2014,Current,,10.0,0.0,home_improvement, 60 months,377xx,,,37791598
+358,LA,26880.0,Individual,29.21,,1 year,Front Office Supervisor ,5000.0,RENT,Dec-2014,Charged Off,,16.0,0.0,debt_consolidation, 36 months,700xx,,,37671674
+359,IN,40221.0,Individual,23.9,,,,12000.0,RENT,Dec-2014,Fully Paid,,11.0,1.0,credit_card, 36 months,462xx,,,37328751
+360,FL,60590.0,Individual,12.14,,,,10000.0,MORTGAGE,Dec-2014,Current,,11.0,1.0,debt_consolidation, 60 months,320xx,,,37600949
+361,MI,72000.0,Individual,24.7,,10+ years,Operations Manager,30000.0,MORTGAGE,Dec-2014,Charged Off,,20.0,0.0,debt_consolidation, 60 months,481xx,,,37830850
+362,WI,105000.0,Individual,17.09,,10+ years,PROGRAM MANAGER,35000.0,MORTGAGE,Dec-2014,Fully Paid,,23.0,0.0,debt_consolidation, 36 months,549xx,,,37761657
+363,CO,105000.0,Individual,13.31,,10+ years,District Manager,16000.0,MORTGAGE,Dec-2014,Current,,17.0,1.0,debt_consolidation, 60 months,800xx,,,37177841
+364,WI,70000.0,Individual,23.9,,3 years,Director,11000.0,MORTGAGE,Dec-2014,Fully Paid,,22.0,1.0,credit_card, 36 months,532xx,,,37841594
+365,GA,45000.0,Individual,26.9,,< 1 year,associate,8000.0,OWN,Dec-2014,Fully Paid,,26.0,0.0,car, 36 months,301xx,,,37841552
+366,NJ,88000.0,Individual,15.67,,9 years,Logistics Specialist,12000.0,MORTGAGE,Dec-2014,Fully Paid,,16.0,1.0,debt_consolidation, 36 months,080xx,,,37631643
+367,VA,140000.0,Individual,14.2,,2 years,Director Facilities,35000.0,RENT,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,201xx,,,37831674
+368,PA,90000.0,Individual,7.61,,3 years,"DIRECTOR, HUMAN RESOURCES",6000.0,MORTGAGE,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 36 months,158xx,,,37651617
+369,CA,55000.0,Individual,26.23,,< 1 year,admission,11875.0,OWN,Dec-2014,Fully Paid,,28.0,1.0,credit_card, 36 months,921xx,,,37800583
+370,VA,69000.0,Individual,14.86,,10+ years,Service Director,13000.0,MORTGAGE,Dec-2014,Current,,12.0,0.0,credit_card, 60 months,231xx,,,37831116
+371,AZ,37000.0,Individual,18.78,,1 year,Case Manager,10000.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,852xx,,,37691383
+372,MN,90000.0,Individual,29.92,,10+ years,CICS Systems Programmer,25000.0,MORTGAGE,Dec-2014,Current,,11.0,0.0,credit_card, 60 months,550xx,,,37741625
+373,IL,100000.0,Individual,15.8,,2 years,"Architect, Engineering",15000.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 36 months,601xx,,,37761508
+374,TX,110000.0,Individual,18.81,,10+ years,Claims,16000.0,MORTGAGE,Dec-2014,Charged Off,,12.0,0.0,debt_consolidation, 60 months,770xx,,,37600999
+375,FL,148320.0,Individual,14.69,,5 years,Sales Manager,24500.0,RENT,Dec-2014,Fully Paid,,11.0,1.0,debt_consolidation, 60 months,334xx,,,37681641
+376,CA,98500.0,Individual,8.93,,2 years,Solutions Engineer,25000.0,RENT,Dec-2014,Fully Paid,,13.0,0.0,major_purchase, 36 months,944xx,,,37771658
+377,AR,55000.0,Individual,12.83,,< 1 year,Financial Advisor,11200.0,MORTGAGE,Dec-2014,Charged Off,,8.0,0.0,debt_consolidation, 60 months,722xx,,,36059066
+378,MD,112000.0,Individual,13.59,,5 years,System Administrator,10000.0,MORTGAGE,Dec-2014,Current,,12.0,0.0,debt_consolidation, 60 months,206xx,,,37741604
+379,TX,84000.0,Individual,17.22,,10+ years,Internet engineer,30225.0,MORTGAGE,Dec-2014,Charged Off,,11.0,0.0,debt_consolidation, 60 months,750xx,,,37681573
+380,TX,150000.0,Individual,27.1,,10+ years,unit director,27000.0,MORTGAGE,Dec-2014,Current,,15.0,0.0,debt_consolidation, 60 months,785xx,,,37427158
+381,KY,275000.0,Individual,12.43,,10+ years,Dentist/owner,28000.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,small_business, 36 months,402xx,,,37127806
+382,NJ,93685.0,Individual,6.7,,10+ years,TRAIN OPERATOR,5000.0,RENT,Dec-2014,Fully Paid,,13.0,3.0,debt_consolidation, 36 months,071xx,,,37751705
+383,CA,60000.0,Individual,12.36,,7 years,driver,16000.0,OWN,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 60 months,913xx,,,37831571
+384,NJ,60000.0,Individual,17.29,,< 1 year,Resource Manager,10000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,070xx,,,37751675
+385,NY,62000.0,Individual,21.86,,5 years,Financial admin,20400.0,OWN,Dec-2014,Current,,14.0,0.0,debt_consolidation, 60 months,104xx,,,37831563
+386,NJ,235000.0,Individual,6.76,,< 1 year,Vice President,20000.0,RENT,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 60 months,073xx,,,37741569
+387,TN,47380.0,Individual,32.67,,2 years,Consultant,20725.0,RENT,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,370xx,,,36733453
+388,NY,80000.0,Individual,18.92,,10+ years,teacher,15000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,home_improvement, 36 months,104xx,,,37601651
+389,AZ,52000.0,Individual,20.29,,10+ years,warehouse,4500.0,MORTGAGE,Dec-2014,Charged Off,,8.0,1.0,debt_consolidation, 36 months,853xx,,,37651582
+390,CA,79000.0,Individual,23.13,,10+ years,Sr. Technology Specialist,5000.0,MORTGAGE,Dec-2014,Fully Paid,,21.0,0.0,debt_consolidation, 36 months,910xx,,,37801674
+391,NV,45000.0,Individual,14.13,,,store manager,4000.0,RENT,Dec-2014,Fully Paid,,17.0,1.0,debt_consolidation, 36 months,890xx,,,37721599
+392,FL,56000.0,Individual,20.19,,10+ years,Teacher,15000.0,RENT,Dec-2014,Fully Paid,,19.0,0.0,debt_consolidation, 36 months,339xx,,,37671599
+393,TX,34000.0,Individual,23.27,,7 years,Draftsman,10400.0,RENT,Dec-2014,Fully Paid,,4.0,0.0,debt_consolidation, 36 months,790xx,,,37711588
+394,NJ,50000.0,Individual,16.42,,< 1 year,Hotel Sales Coordinator,6600.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,credit_card, 36 months,082xx,,,37751666
+395,NC,30000.0,Individual,9.52,,< 1 year,Customer Care Specialust,7150.0,RENT,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,284xx,,,37771625
+396,MI,18000.0,Individual,28.2,,,,1375.0,MORTGAGE,Dec-2014,Fully Paid,,5.0,1.0,debt_consolidation, 36 months,488xx,,,37641601
+397,MI,40000.0,Individual,16.68,,3 years,Assistant Store Manager,9650.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,495xx,,,37770653
+398,CA,45000.0,Individual,18.57,,3 years,Manager,16000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,959xx,,,37721612
+399,OH,38000.0,Individual,22.93,,4 years,Financial Services Analyst,10300.0,RENT,Dec-2014,Current,,11.0,0.0,other, 36 months,432xx,,,37671618
+400,OR,65000.0,Individual,8.2,,5 years,UP,4000.0,RENT,Dec-2014,Current,,6.0,1.0,moving, 36 months,972xx,,,37621626
+401,MI,41500.0,Individual,23.02,,1 year,Social Worker,11000.0,MORTGAGE,Dec-2014,Current,,10.0,0.0,debt_consolidation, 60 months,480xx,,,37841535
+402,NY,95000.0,Individual,15.45,,7 years,SEIT,5000.0,OWN,Dec-2014,Current,,9.0,0.0,other, 36 months,114xx,,,37801684
+403,MN,85000.0,Individual,29.74,,2 years,District Manager,20000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 36 months,563xx,,,37227811
+404,NV,95000.0,Individual,17.52,,10+ years,store director,4000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,home_improvement, 36 months,891xx,,,37631586
+405,TX,108600.0,Individual,12.76,,10+ years,Senior Systems Engineer,21000.0,MORTGAGE,Dec-2014,Fully Paid,,23.0,0.0,debt_consolidation, 36 months,782xx,,,36280834
+406,MA,137240.0,Individual,2.48,,2 years,Manager of Business Process Analysis,9725.0,RENT,Dec-2014,Fully Paid,,9.0,1.0,house, 36 months,024xx,,,37761587
+407,NY,23000.0,Individual,8.82,,< 1 year,Security,4800.0,RENT,Dec-2014,Charged Off,,9.0,0.0,moving, 36 months,132xx,,,37731386
+408,FL,120000.0,Individual,22.59,,10+ years,Chg RN,24000.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,credit_card, 36 months,337xx,,,37671600
+409,KS,60000.0,Individual,10.62,,4 years,Account Leader,8000.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,credit_card, 36 months,662xx,,,37661476
+410,IL,70000.0,Individual,15.98,,2 years,Supervisor,10200.0,RENT,Dec-2014,Current,,19.0,0.0,debt_consolidation, 36 months,605xx,,,37671634
+411,NJ,40000.0,Individual,19.17,,10+ years,nurse,7500.0,OWN,Dec-2014,Fully Paid,,15.0,0.0,credit_card, 36 months,087xx,,,36201550
+412,IN,70000.0,Individual,19.01,,10+ years,Sergeant first class,16000.0,MORTGAGE,Dec-2014,Current,,13.0,0.0,debt_consolidation, 36 months,468xx,,,37631629
+413,VA,30000.0,Individual,18.04,,10+ years,tech,8500.0,RENT,Dec-2014,Fully Paid,,3.0,0.0,debt_consolidation, 36 months,240xx,,,37831594
+414,CA,35300.0,Individual,21.33,,9 years,NURSE ASSISTANT ,10000.0,RENT,Dec-2014,Fully Paid,,21.0,0.0,debt_consolidation, 36 months,945xx,,,37641562
+415,IL,69000.0,Individual,6.7,,10+ years,Manuscript Editor,16000.0,RENT,Dec-2014,Current,,9.0,0.0,other, 60 months,600xx,,,37701556
+416,AZ,216000.0,Individual,13.8,,10+ years,Staff pathologist,35000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,0.0,credit_card, 36 months,852xx,,,37601676
+417,CA,105000.0,Individual,16.39,,2 years,Applications Engineer Senior,20000.0,RENT,Dec-2014,Current,,6.0,0.0,debt_consolidation, 60 months,927xx,,,37711626
+418,NJ,125000.0,Individual,4.93,,4 years,Investment Grade Salesmen,6075.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,070xx,,,37761091
+419,MD,67000.0,Individual,13.4,,10+ years,avp deposit operations,4800.0,MORTGAGE,Dec-2014,Current,,6.0,0.0,credit_card, 36 months,211xx,,,37781712
+420,TN,99000.0,Individual,20.77,,10+ years,Credit Manager,15000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 36 months,378xx,,,37701058
+421,WI,40000.0,Individual,21.39,,10+ years,Criminal Clerk,12000.0,MORTGAGE,Dec-2014,Current,,17.0,0.0,debt_consolidation, 60 months,530xx,,,33411541
+422,CA,50000.0,Individual,25.54,,10+ years,Lead QA Analyst,8700.0,RENT,Dec-2014,Fully Paid,,17.0,1.0,credit_card, 36 months,958xx,,,37671596
+423,KS,150000.0,Individual,15.25,,10+ years,Engineering Manager,35000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 60 months,660xx,,,37811675
+424,PA,115000.0,Individual,15.26,,1 year,Partner Analytics Manager,15000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 36 months,190xx,,,37641556
+425,MN,34000.0,Individual,14.75,,2 years,Broadband Technician,15525.0,RENT,Dec-2014,Current,,6.0,0.0,credit_card, 60 months,559xx,,,37841522
+426,MA,25000.0,Individual,4.46,,2 years,Service Technician,5000.0,OWN,Dec-2014,Fully Paid,,4.0,0.0,debt_consolidation, 36 months,016xx,,,37611667
+427,NY,37024.0,Individual,22.51,,8 years,Locksmith,11075.0,OWN,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 60 months,120xx,,,37661538
+428,MT,85000.0,Individual,11.0,,< 1 year,Operations Management,20000.0,MORTGAGE,Dec-2014,Fully Paid,,5.0,0.0,credit_card, 36 months,597xx,,,37661489
+429,WI,450000.0,Individual,16.88,,9 years,Regional Vice President,35000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 60 months,549xx,,,36743141
+430,FL,80000.0,Individual,10.58,,10+ years,teacher asst,12000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,1.0,debt_consolidation, 36 months,329xx,,,37781631
+431,NY,85000.0,Individual,16.62,,1 year,construction,24000.0,RENT,Dec-2014,Charged Off,,6.0,1.0,debt_consolidation, 60 months,114xx,,,37811432
+432,SC,110000.0,Individual,17.35,,4 years,occupational therapist,20000.0,MORTGAGE,Dec-2014,Current,,37.0,0.0,debt_consolidation, 60 months,294xx,,,37711546
+433,NV,55000.0,Individual,14.86,,10+ years,Consumer loan underwriter,15000.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 60 months,891xx,,,37821538
+434,TX,73000.0,Individual,19.07,,10+ years,District Coordinator,5000.0,MORTGAGE,Dec-2014,Fully Paid,,20.0,1.0,vacation, 36 months,751xx,,,37631545
+435,FL,55000.0,Individual,29.51,,10+ years,Social Worker,3075.0,OWN,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,331xx,,,37661515
+436,NC,90000.0,Individual,14.64,,4 years,Medical Science Liaison,4800.0,MORTGAGE,Dec-2014,Current,,7.0,0.0,debt_consolidation, 36 months,272xx,,,37831519
+437,WV,107500.0,Individual,10.69,,6 years,driver,5000.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,261xx,,,37611619
+438,CO,60000.0,Individual,35.36,,< 1 year,RN,22800.0,RENT,Dec-2014,Late (31-120 days),,18.0,0.0,debt_consolidation, 60 months,800xx,,,37611658
+439,MT,25000.0,Individual,16.54,,10+ years,Manager,7475.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,597xx,,,37640670
+440,NJ,137000.0,Individual,10.6,,2 years,Senior Product Manager,28000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,070xx,,,37761536
+441,CT,160000.0,Individual,11.21,,7 years,VP of Sales,18000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,067xx,,,37711552
+442,FL,51000.0,Individual,10.66,,5 years,Human Services Manager,18000.0,RENT,Dec-2014,Fully Paid,,4.0,0.0,debt_consolidation, 36 months,333xx,,,37681551
+443,MA,140000.0,Individual,6.41,,< 1 year,Sr ETL Architect,28000.0,MORTGAGE,Dec-2014,Fully Paid,,4.0,0.0,debt_consolidation, 60 months,023xx,,,37611643
+444,NY,185000.0,Individual,6.8,,< 1 year,President,25000.0,MORTGAGE,Dec-2014,Current,,10.0,0.0,credit_card, 60 months,105xx,,,37661500
+445,NY,36180.0,Individual,15.09,,10+ years,Senior Site Rep,15900.0,RENT,Dec-2014,Fully Paid,,14.0,0.0,debt_consolidation, 36 months,104xx,,,37671547
+446,TX,87475.0,Individual,9.58,,6 years,Sr. Systems Integration Analyst,17000.0,MORTGAGE,Dec-2014,Current,,17.0,0.0,debt_consolidation, 36 months,750xx,,,36371569
+447,PA,21000.0,Individual,26.46,,2 years,Teacher,1000.0,RENT,Dec-2014,Fully Paid,,5.0,0.0,medical, 36 months,172xx,,,37821530
+448,NC,85814.0,Individual,21.79,,5 years,ARMY OFFICER,21000.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,283xx,,,37681471
+449,TX,57600.0,Individual,17.15,,10+ years,Senior Veterinary Technician,10000.0,MORTGAGE,Dec-2014,Fully Paid,,14.0,0.0,debt_consolidation, 36 months,750xx,,,37147785
+450,NV,39465.0,Individual,38.14,,7 years,Bingo Agent,13225.0,OWN,Dec-2014,Fully Paid,,17.0,0.0,credit_card, 36 months,891xx,,,36801601
+451,IL,100000.0,Individual,7.72,,10+ years,heavy equipment operator,33000.0,MORTGAGE,Dec-2014,Fully Paid,,6.0,0.0,credit_card, 36 months,600xx,,,37700204
+452,MO,83000.0,Individual,6.21,,4 years,Sales,12000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,credit_card, 36 months,640xx,,,37680182
+453,TX,69000.0,Individual,27.1,,2 years,AML Compliance Officer,12000.0,RENT,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 36 months,774xx,,,37661431
+454,NY,42000.0,Individual,29.37,,2 years,POS Developer,8000.0,RENT,Dec-2014,Charged Off,,20.0,0.0,debt_consolidation, 36 months,144xx,,,37641524
+455,NY,27300.0,Individual,24.43,,10+ years,school bus attendant,9225.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 36 months,112xx,,,37771542
+456,CA,82500.0,Individual,7.33,,9 years,General Manager,25000.0,RENT,Dec-2014,Fully Paid,,8.0,1.0,small_business, 36 months,925xx,,,37107399
+457,CT,35000.0,Individual,16.39,,3 years,Maintenance,5000.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,062xx,,,37691519
+458,TX,89000.0,Individual,20.43,,10+ years,Business Systems Consultant,13000.0,MORTGAGE,Dec-2014,Fully Paid,,18.0,0.0,major_purchase, 60 months,782xx,,,37681531
+459,CA,50000.0,Individual,12.22,,2 years,Communications Manager,10000.0,OWN,Dec-2014,Fully Paid,,4.0,0.0,major_purchase, 36 months,927xx,,,37841472
+460,MI,42000.0,Individual,29.66,,< 1 year,Salesman,15000.0,MORTGAGE,Dec-2014,Charged Off,,13.0,0.0,debt_consolidation, 60 months,495xx,,,37761554
+461,MN,55000.0,Individual,19.51,,< 1 year,BI Analyst,8500.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,554xx,,,37741493
+462,NY,95480.0,Individual,13.3,,3 years,Assoc Director,18000.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,100xx,,,37841457
+463,IN,40000.0,Individual,27.0,,9 years,Quality Assurance Specialist,20000.0,MORTGAGE,Dec-2014,Current,,10.0,0.0,debt_consolidation, 60 months,462xx,,,37621574
+464,VA,55200.0,Individual,27.91,,8 years,Supervisor,20000.0,OWN,Dec-2014,Fully Paid,,19.0,0.0,debt_consolidation, 36 months,230xx,,,37621413
+465,GA,50000.0,Individual,19.44,,10+ years,MWO Coordinator I ,10300.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,301xx,,,37601615
+466,SC,40000.0,Individual,7.62,,,,10000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 36 months,296xx,,,37631536
+467,CT,68000.0,Individual,13.04,,4 years,Hygienist,11750.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,068xx,,,37800296
+468,FL,59000.0,Individual,7.57,,,,11000.0,MORTGAGE,Dec-2014,Fully Paid,,5.0,0.0,debt_consolidation, 60 months,329xx,,,37611270
+469,CA,22000.0,Individual,8.95,,,,4200.0,RENT,Dec-2014,Fully Paid,,7.0,2.0,other, 36 months,953xx,,,37601584
+470,NC,70000.0,Individual,15.06,,< 1 year,Category Advisor,8000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,other, 36 months,281xx,,,37751576
+471,CA,93808.0,Individual,13.15,,10+ years,Police Corporal,8000.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,960xx,,,37841448
+472,AZ,61000.0,Individual,18.5,,10+ years,Teacher,6000.0,RENT,Dec-2014,Fully Paid,,10.0,0.0,other, 36 months,857xx,,,37741487
+473,TX,47000.0,Individual,38.99,,4 years,driver,11200.0,RENT,Dec-2014,Fully Paid,,14.0,0.0,debt_consolidation, 36 months,782xx,,,37751428
+474,TX,50000.0,Individual,24.75,,10+ years,Clinical Nurse Manager,11200.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,medical, 36 months,751xx,,,37711505
+475,OH,55000.0,Individual,10.02,,2 years,Research Scientist ,10000.0,OWN,Dec-2014,Charged Off,,21.0,1.0,credit_card, 60 months,430xx,,,37751566
+476,NJ,117000.0,Individual,15.22,,6 years,Human Resources Manager,21000.0,MORTGAGE,Dec-2014,Current,,18.0,1.0,debt_consolidation, 60 months,078xx,,,37701521
+477,MO,35000.0,Individual,13.17,,9 years,sales,7000.0,OWN,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 36 months,630xx,,,37611567
+478,FL,52000.0,Individual,16.82,,10+ years,service tech,9800.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,328xx,,,37811568
+479,CA,61409.0,Individual,26.36,,10+ years,Electrician,13550.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 60 months,957xx,,,37621531
+480,AZ,77000.0,Individual,19.12,,4 years,internal auditor senior lll,16000.0,RENT,Dec-2014,Charged Off,,12.0,0.0,home_improvement, 60 months,853xx,,,37641514
+481,NY,35000.0,Individual,11.66,,10+ years,CNA,6000.0,RENT,Dec-2014,Fully Paid,,11.0,1.0,debt_consolidation, 36 months,104xx,,,37731460
+482,NC,48000.0,Individual,15.7,,10+ years,supervisor,20000.0,MORTGAGE,Dec-2014,Current,,11.0,0.0,debt_consolidation, 60 months,274xx,,,37781596
+483,AZ,59000.0,Individual,16.84,,10+ years,owner opertor,7000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 36 months,853xx,,,37681506
+484,GA,145000.0,Individual,23.67,,3 years,Attorney,28000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,credit_card, 36 months,303xx,,,37841426
+485,NV,100000.0,Individual,10.37,,6 years,Cstl-pit manager,25000.0,MORTGAGE,Dec-2014,Current,,8.0,1.0,credit_card, 60 months,891xx,,,37751480
+486,IN,60000.0,Individual,11.48,,10+ years,Assembler,24000.0,MORTGAGE,Dec-2014,Fully Paid,,5.0,0.0,debt_consolidation, 36 months,468xx,,,37107234
+487,GA,110000.0,Individual,11.34,,10+ years,IT Audit Specialist,12000.0,MORTGAGE,Dec-2014,Fully Paid,,20.0,0.0,home_improvement, 36 months,300xx,,,37781601
+488,WI,31000.0,Individual,20.52,,8 years,Manager,7400.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,major_purchase, 36 months,534xx,,,37701519
+489,NY,110000.0,Individual,7.88,,5 years,Manager,20000.0,OWN,Dec-2014,Charged Off,,10.0,0.0,credit_card, 60 months,109xx,,,36119630
+490,TX,90000.0,Individual,19.52,,2 years,Project Manager,8000.0,MORTGAGE,Dec-2014,Fully Paid,,14.0,0.0,credit_card, 36 months,762xx,,,37831494
+491,TX,78000.0,Individual,20.78,,10+ years,ROTC Instructor,24000.0,RENT,Dec-2014,Current,,13.0,0.0,debt_consolidation, 60 months,775xx,,,37711500
+492,NY,90000.0,Individual,15.48,,5 years,manager,22000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 60 months,119xx,,,37740668
+493,CA,72000.0,Individual,13.77,,1 year,Senior Associate,20000.0,RENT,Dec-2014,Charged Off,,3.0,0.0,credit_card, 60 months,928xx,,,37711490
+494,PA,90000.0,Individual,23.77,,10+ years,Manager,30000.0,MORTGAGE,Dec-2014,Current,,14.0,0.0,credit_card, 60 months,156xx,,,37641481
+495,MI,59055.0,Individual,23.27,,7 years,Clinical Research Project Manager Health,16000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 36 months,481xx,,,37821463
+496,GA,73000.0,Individual,17.84,,2 years,IT Manager,3000.0,OWN,Dec-2014,Fully Paid,,9.0,0.0,other, 36 months,301xx,,,37831469
+497,WI,40000.0,Individual,16.89,,10+ years,Operations Assistant,12000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,530xx,,,37701318
+500,VA,42000.0,Individual,25.89,,2 years,Owner/Therapist,10000.0,OWN,Dec-2014,Fully Paid,,18.0,2.0,credit_card, 36 months,235xx,,,37601591
+501,WA,83000.0,Individual,14.26,,7 years,Program Manager,16800.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,1.0,credit_card, 36 months,980xx,,,37621233
+502,IL,45000.0,Individual,20.37,,5 years,Account Executive,19800.0,OWN,Dec-2014,Current,,8.0,0.0,debt_consolidation, 60 months,605xx,,,36860143
+503,TN,55000.0,Individual,30.53,,10+ years,teacher,23800.0,OWN,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,378xx,,,37671503
+504,CA,124000.0,Individual,18.84,,10+ years,Sergeant,21600.0,RENT,Dec-2014,Fully Paid,,16.0,0.0,debt_consolidation, 60 months,902xx,,,37631502
+505,WA,115000.0,Individual,25.19,,1 year,Account executive,24000.0,MORTGAGE,Dec-2014,Fully Paid,,16.0,0.0,debt_consolidation, 36 months,982xx,,,37841429
+506,KY,90000.0,Individual,17.51,,5 years,Loan Officer,18000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 60 months,403xx,,,37800714
+507,NY,80000.0,Individual,22.12,,< 1 year,Linguist-Translator,24000.0,RENT,Dec-2014,Current,,12.0,0.0,credit_card, 36 months,113xx,,,37831471
+508,CA,58000.0,Individual,22.53,,10+ years,"Asst. Vice President, Team Leader",16000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 36 months,958xx,,,37611593
+509,IL,76000.0,Individual,32.92,,1 year,International Project Supervisor,10225.0,OWN,Dec-2014,Fully Paid,,23.0,0.0,debt_consolidation, 36 months,601xx,,,36331431
+510,OH,55000.0,Individual,26.55,,,,15000.0,MORTGAGE,Dec-2014,Current,,9.0,0.0,debt_consolidation, 60 months,449xx,,,37821494
+511,CA,52000.0,Individual,23.1,,2 years,Manager,15000.0,OWN,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,900xx,,,32349399
+512,WA,225000.0,Individual,18.48,,2 years,CFO,24000.0,RENT,Dec-2014,Fully Paid,,12.0,0.0,credit_card, 36 months,980xx,,,37831477
+513,WA,70000.0,Individual,27.25,,10+ years,Installer,4000.0,RENT,Dec-2014,Fully Paid,,18.0,1.0,debt_consolidation, 36 months,980xx,,,37841428
+514,TX,65000.0,Individual,14.59,,6 years,Registered Dental Hygienist,9600.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 36 months,763xx,,,37761295
+515,TX,65000.0,Individual,35.28,,10+ years,Sales Rep,23000.0,OWN,Dec-2014,Charged Off,,13.0,0.0,debt_consolidation, 60 months,751xx,,,37751581
+516,MD,65000.0,Individual,18.95,,< 1 year,Hospital Services Coordinator,10000.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,credit_card, 36 months,217xx,,,37721518
+517,AZ,28000.0,Individual,39.73,,9 years,paraprofessional,5000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,1.0,debt_consolidation, 36 months,852xx,,,37621513
+518,NY,43000.0,Individual,20.68,,10+ years,machine operator,6500.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,other, 36 months,139xx,,,37711464
+519,PA,125000.0,Individual,12.1,,6 years,Atmospheric Scientist,28000.0,MORTGAGE,Dec-2014,Current,,6.0,0.0,credit_card, 36 months,189xx,,,37821455
+520,IL,80000.0,Individual,26.32,,5 years,National Sales Manager,9600.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,credit_card, 36 months,606xx,,,37721502
+521,NC,100000.0,Individual,4.64,,10+ years,Manager,12000.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,276xx,,,37771471
+522,MI,92000.0,Individual,26.32,,3 years,Manager - Corporate Reimbursement,20000.0,MORTGAGE,Dec-2014,Fully Paid,,24.0,0.0,debt_consolidation, 36 months,481xx,,,37701461
+523,CA,120000.0,Individual,32.41,,4 years,Lead Software Developer,25000.0,RENT,Dec-2014,Charged Off,,18.0,0.0,credit_card, 60 months,921xx,,,37830811
+524,OH,46000.0,Individual,17.61,,10+ years,Billing Supervisor,15000.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 60 months,450xx,,,37821450
+525,NC,60000.0,Individual,4.06,,6 years,Instructor,12000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,1.0,debt_consolidation, 36 months,275xx,,,37641448
+526,CT,66099.0,Individual,10.35,,1 year,Doctor,17000.0,RENT,Dec-2014,Fully Paid,,33.0,0.0,credit_card, 36 months,065xx,,,37711472
+527,WA,70000.0,Individual,18.4,,10+ years,communications officer 1,27650.0,MORTGAGE,Dec-2014,Current,,15.0,0.0,debt_consolidation, 60 months,980xx,,,36220470
+528,MO,90000.0,Individual,17.48,,10+ years,warehouse manager,14000.0,MORTGAGE,Dec-2014,Charged Off,,14.0,0.0,debt_consolidation, 60 months,630xx,,,37720929
+529,NM,50000.0,Individual,11.29,,3 years,Regional Sales Manager,12000.0,RENT,Dec-2014,Current,,13.0,1.0,home_improvement, 60 months,871xx,,,37701495
+530,FL,72000.0,Individual,14.01,,10+ years,Account Executive,12000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 36 months,334xx,,,37661426
+531,NY,190000.0,Individual,19.36,,10+ years,Director,25000.0,OWN,Dec-2014,Fully Paid,,21.0,0.0,credit_card, 36 months,109xx,,,37611559
+532,MO,32000.0,Individual,19.58,,10+ years,Eligibility Specialist Supervisor,2500.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,1.0,car, 36 months,630xx,,,37621480
+533,PA,42000.0,Individual,20.66,,10+ years,facility service,15000.0,MORTGAGE,Dec-2014,Charged Off,,8.0,0.0,home_improvement, 60 months,190xx,,,36119381
+534,PA,60000.0,Individual,21.6,,5 years,Business Office Manager,15000.0,OWN,Dec-2014,Fully Paid,,14.0,0.0,debt_consolidation, 36 months,191xx,,,37801531
+535,NY,85000.0,Individual,6.72,,2 years,Sr. App Analyst,10000.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,credit_card, 36 months,112xx,,,37631465
+536,FL,43000.0,Individual,34.13,,10+ years,Sous chef,12000.0,RENT,Dec-2014,Charged Off,,12.0,1.0,credit_card, 36 months,339xx,,,37631457
+537,NJ,105000.0,Individual,1.61,,10+ years,auto tect,2500.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,car, 36 months,081xx,,,37207932
+538,VA,64000.0,Individual,18.88,,,,14400.0,MORTGAGE,Dec-2014,Fully Paid,,14.0,0.0,debt_consolidation, 36 months,232xx,,,37661445
+539,CT,45000.0,Individual,15.84,,2 years,Patent Paralegala,10000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,1.0,debt_consolidation, 36 months,060xx,,,37761468
+540,VA,69000.0,Individual,25.89,,10+ years,Assistant Superintendent,15000.0,MORTGAGE,Dec-2014,Fully Paid,,30.0,1.0,car, 36 months,224xx,,,37611376
+541,WV,43000.0,Individual,26.37,,5 years,Patrolman,18000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,1.0,debt_consolidation, 60 months,260xx,,,37801300
+542,CA,100000.0,Individual,9.99,,10+ years,Sales Manager,6000.0,RENT,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,917xx,,,37821449
+543,TX,88100.0,Individual,19.55,,3 years,IT Specialist,14400.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,782xx,,,37831444
+544,MD,34000.0,Individual,18.67,,3 years,Seaman,2000.0,RENT,Dec-2014,Fully Paid,,5.0,0.0,debt_consolidation, 36 months,218xx,,,37731416
+545,NV,88000.0,Individual,21.1,,6 years,sales,3600.0,RENT,Dec-2014,Fully Paid,,22.0,1.0,major_purchase, 36 months,891xx,,,37611542
+546,FL,22500.0,Individual,22.45,,< 1 year,First Officer,8000.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,credit_card, 36 months,331xx,,,37621461
+547,AZ,60000.0,Individual,24.22,,9 years,Network Operation,2800.0,RENT,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,852xx,,,37621487
+548,AZ,81900.0,Individual,6.97,,10+ years,Instructional Designer,15000.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,852xx,,,37601076
+549,IL,46291.0,Individual,9.57,,3 years,substitute teacher/social worker,9600.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,1.0,credit_card, 36 months,600xx,,,36801518
+550,IL,55000.0,Individual,2.9,,3 years,Mortgage Banker,10000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 36 months,606xx,,,36281033
+551,TN,225000.0,Individual,7.79,,8 years,owner,10000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,1.0,home_improvement, 36 months,370xx,,,36019516
+552,GA,78000.0,Individual,31.12,,10+ years,Customer Support Rep,1500.0,OWN,Dec-2014,Fully Paid,,20.0,0.0,other, 36 months,301xx,,,37671420
+553,NY,60000.0,Individual,17.44,,10+ years,highway maintenance supervisor,12000.0,MORTGAGE,Dec-2014,Current,,9.0,0.0,debt_consolidation, 60 months,120xx,,,37731356
+554,MA,80000.0,Individual,6.59,,3 years,Full time RN,20000.0,MORTGAGE,Dec-2014,Charged Off,,20.0,0.0,debt_consolidation, 60 months,021xx,,,37771432
+555,MI,52000.0,Individual,22.85,,< 1 year,GENERAL LEDGER ACCOUNTANT,7050.0,RENT,Dec-2014,Fully Paid,,21.0,0.0,debt_consolidation, 36 months,481xx,,,37621463
+556,RI,130000.0,Individual,17.5,,8 years,RN,6000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,credit_card, 36 months,028xx,,,16402028
+557,CA,97000.0,Individual,23.91,,10+ years,attorney/owner,30000.0,MORTGAGE,Dec-2014,Charged Off,,20.0,0.0,other, 60 months,908xx,,,37741416
+558,CA,63000.0,Individual,22.29,,10+ years,Manager,14700.0,RENT,Dec-2014,Fully Paid,,11.0,1.0,debt_consolidation, 60 months,919xx,,,37741435
+559,AR,58000.0,Individual,39.77,,3 years,OTR driver,18000.0,MORTGAGE,Dec-2014,Current,,11.0,0.0,debt_consolidation, 36 months,726xx,,,37721438
+560,IL,310000.0,Individual,9.08,,10+ years,director business development,20000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 36 months,605xx,,,37751532
+561,NY,60000.0,Individual,21.47,,7 years,CEO,29975.0,MORTGAGE,Dec-2014,Fully Paid,,17.0,0.0,debt_consolidation, 60 months,103xx,,,37771406
+562,VA,50000.0,Individual,13.9,,< 1 year,Sales Consultant,3000.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,other, 36 months,235xx,,,37711459
+563,MS,75000.0,Individual,12.77,,< 1 year,Insurance agent,5875.0,MORTGAGE,Dec-2014,Charged Off,,9.0,1.0,debt_consolidation, 36 months,395xx,,,37641419
+564,TX,70000.0,Individual,17.75,,3 years,RN CASE MANAGER,32000.0,OWN,Dec-2014,Fully Paid,,10.0,0.0,debt_consolidation, 36 months,769xx,,,37690957
+565,TX,65000.0,Individual,25.62,,4 years,Assembly,6600.0,MORTGAGE,Dec-2014,Fully Paid,,16.0,0.0,debt_consolidation, 36 months,782xx,,,37811487
+566,OH,25000.0,Individual,36.74,,10+ years,pharmacy tech,8475.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,441xx,,,37620902
+567,WI,83000.0,Individual,21.91,,10+ years,Product Manager,31200.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,credit_card, 60 months,535xx,,,37631405
+568,OK,58000.0,Individual,6.56,,10+ years,System Engineer,15000.0,MORTGAGE,Dec-2014,Charged Off,,8.0,0.0,debt_consolidation, 36 months,740xx,,,37671430
+569,CA,150000.0,Individual,14.47,,10+ years,RN,35000.0,MORTGAGE,Dec-2014,Fully Paid,,20.0,1.0,home_improvement, 60 months,927xx,,,36797598
+570,CA,280000.0,Individual,4.44,,2 years,Administrative Director,8000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,credit_card, 36 months,951xx,,,37751483
+571,MN,40000.0,Individual,30.9,,10+ years,Printing/macine operator,11075.0,MORTGAGE,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 60 months,563xx,,,37651351
+572,CA,86000.0,Individual,18.69,,8 years,Registered Nurse,35000.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,900xx,,,37691484
+573,LA,43000.0,Individual,29.11,,7 years,Draftsman,7000.0,MORTGAGE,Dec-2014,Current,,18.0,0.0,debt_consolidation, 36 months,701xx,,,37841375
+574,CA,60000.0,Individual,30.49,,10+ years,Staff RN,7000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,0.0,other, 36 months,928xx,,,37641398
+575,NY,34000.0,Individual,8.58,,5 years,CNA,12000.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 36 months,104xx,,,37641397
+576,AZ,77000.0,Individual,25.36,,10+ years,Military,29000.0,RENT,Dec-2014,Charged Off,,10.0,0.0,debt_consolidation, 36 months,850xx,,,37691476
+577,NY,185000.0,Individual,17.04,,10+ years,Counsel,5000.0,RENT,Dec-2014,Fully Paid,,23.0,0.0,debt_consolidation, 36 months,110xx,,,37771414
+578,NM,110000.0,Individual,12.72,,5 years,sales manager,28000.0,MORTGAGE,Dec-2014,Current,,19.0,0.0,credit_card, 60 months,870xx,,,37761440
+579,MT,56000.0,Individual,16.06,,1 year,Dean of Student Engagement ,15000.0,RENT,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,595xx,,,37801484
+580,MD,122500.0,Individual,12.85,,2 years,Project Manager,30000.0,MORTGAGE,Dec-2014,Fully Paid,,14.0,0.0,debt_consolidation, 36 months,208xx,,,37791356
+581,WI,62000.0,Individual,24.06,,5 years,Optical Manager ,20000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,credit_card, 60 months,548xx,,,37831382
+582,IL,115000.0,Individual,8.82,,10+ years,Construction worker,12000.0,MORTGAGE,Dec-2014,Charged Off,,8.0,0.0,debt_consolidation, 36 months,606xx,,,37651373
+583,CA,112000.0,Individual,13.78,,10+ years,Correctional Counselor II,3600.0,RENT,Dec-2014,Fully Paid,,16.0,0.0,debt_consolidation, 36 months,937xx,,,37601500
+584,WV,82000.0,Individual,19.83,,5 years,Examiner,18000.0,MORTGAGE,Dec-2014,Fully Paid,,27.0,0.0,credit_card, 36 months,253xx,,,37731388
+585,CA,72000.0,Individual,10.27,,10+ years,Supervisor,15000.0,RENT,Dec-2014,Fully Paid,,14.0,0.0,debt_consolidation, 60 months,913xx,,,37751449
+586,SC,82000.0,Individual,13.9,,10+ years,System Analyst,24000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,0.0,credit_card, 36 months,296xx,,,37631386
+587,IL,90000.0,Individual,27.49,,10+ years,Marketing Analyst,35000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 60 months,611xx,,,37800346
+588,RI,64000.0,Individual,25.91,,3 years,Assistant Director,5000.0,RENT,Dec-2014,Fully Paid,,23.0,0.0,credit_card, 36 months,029xx,,,37781483
+589,CO,62952.0,Individual,17.21,,10+ years,Gunnery Sergeant,18000.0,MORTGAGE,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 60 months,808xx,,,37701396
+590,GA,84000.0,Individual,14.74,,10+ years,Flight Attendant,24000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,credit_card, 36 months,302xx,,,37601439
+591,CA,23760.0,Individual,9.44,,,,2000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,1.0,home_improvement, 36 months,957xx,,,37831333
+592,NY,80000.0,Individual,7.18,,7 years,Senior Research Associate,35000.0,MORTGAGE,Dec-2014,Fully Paid,,20.0,0.0,credit_card, 36 months,112xx,,,37751452
+593,IL,100500.0,Individual,4.53,,,,26000.0,MORTGAGE,Dec-2014,Charged Off,,7.0,1.0,home_improvement, 36 months,604xx,,,37841350
+594,SC,60000.0,Individual,14.4,,1 year,Business Analyst,14000.0,RENT,Dec-2014,Fully Paid,,21.0,0.0,debt_consolidation, 36 months,294xx,,,37831271
+595,NV,60000.0,Individual,21.55,,10+ years,supervisor,12000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,891xx,,,37631404
+596,OH,110244.0,Individual,26.32,,9 years,aviation safety inspector,25000.0,OWN,Dec-2014,Fully Paid,,17.0,0.0,credit_card, 36 months,440xx,,,37811403
+597,TX,80000.0,Individual,24.37,,1 year,winder,4800.0,RENT,Dec-2014,Fully Paid,,11.0,0.0,debt_consolidation, 36 months,785xx,,,37731349
+598,NC,90000.0,Individual,12.25,,1 year,Audit Manager,6000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,282xx,,,37771369
+599,VA,116887.0,Individual,22.2,,10+ years,Foreign Service,7000.0,MORTGAGE,Dec-2014,Fully Paid,,5.0,0.0,debt_consolidation, 36 months,201xx,,,37711377
+600,CO,60000.0,Individual,26.48,,8 years,Logistic Administrator,10000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,802xx,,,37601467
+601,NY,32760.0,Individual,13.81,,2 years,Operations Support Coordinator,11075.0,RENT,Dec-2014,Fully Paid,,3.0,0.0,debt_consolidation, 36 months,140xx,,,37701407
+602,OH,45000.0,Individual,11.01,,1 year,Maintenance Technician,15000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,453xx,,,36631183
+603,MN,96000.0,Individual,8.55,,< 1 year,Senior Consultant,8000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,554xx,,,37681359
+604,CA,50000.0,Individual,38.42,,7 years,driver,20000.0,RENT,Dec-2014,Charged Off,,11.0,1.0,credit_card, 60 months,940xx,,,37791297
+605,PA,48000.0,Individual,15.2,,8 years,service tech,6000.0,OWN,Dec-2014,Fully Paid,,10.0,1.0,other, 36 months,151xx,,,37741410
+606,CA,120000.0,Individual,18.18,,10+ years,Police Officer,3500.0,MORTGAGE,Dec-2014,Charged Off,,8.0,0.0,credit_card, 36 months,940xx,,,37631364
+607,NJ,38784.0,Individual,22.28,,2 years,Phlebotomist,7000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,080xx,,,37601389
+608,CA,150000.0,Individual,13.54,,3 years,Director of Support Services,3600.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,home_improvement, 36 months,951xx,,,37631387
+609,NY,60000.0,Individual,17.01,,5 years,service advisor,25000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,credit_card, 36 months,121xx,,,37681188
+610,CO,50000.0,Individual,13.42,,9 years,Social Worker,4000.0,MORTGAGE,Dec-2014,Fully Paid,,6.0,0.0,other, 36 months,800xx,,,37761406
+611,CA,70611.0,Individual,37.73,,< 1 year,Senior Paralegal,25325.0,RENT,Dec-2014,Charged Off,,18.0,0.0,debt_consolidation, 36 months,920xx,,,37751281
+612,TX,65000.0,Individual,12.7,,2 years,store manager,7200.0,RENT,Dec-2014,Fully Paid,,16.0,0.0,debt_consolidation, 36 months,786xx,,,37721420
+613,NY,50820.0,Individual,14.12,,2 years,Financial Analyst,15000.0,OWN,Dec-2014,Fully Paid,,18.0,0.0,debt_consolidation, 60 months,112xx,,,37771351
+614,PA,22000.0,Individual,26.24,,8 years,hairdresser,3000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,1.0,credit_card, 36 months,184xx,,,37641363
+615,VA,62000.0,Individual,27.8,,10+ years,Regional Infrastructure Manager,18000.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,234xx,,,37631378
+616,OH,56037.12,Individual,23.95,,5 years,Teacher,21000.0,MORTGAGE,Dec-2014,Current,,9.0,0.0,major_purchase, 60 months,430xx,,,37721392
+617,CA,200000.0,Individual,5.67,,10+ years,President; majority shareholder,25000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,credit_card, 36 months,922xx,,,37671407
+618,NH,20000.0,Individual,25.39,,9 years,owner,9975.0,RENT,Dec-2014,Current,,10.0,0.0,debt_consolidation, 36 months,030xx,,,37691440
+619,WA,99000.0,Individual,5.94,,4 years,Systems Engineer 3,18000.0,RENT,Dec-2014,Charged Off,,5.0,0.0,debt_consolidation, 36 months,981xx,,,37821372
+620,MN,263500.0,Individual,15.92,,5 years,Physician,14000.0,MORTGAGE,Dec-2014,Fully Paid,,14.0,0.0,debt_consolidation, 36 months,559xx,,,37601493
+621,WA,87877.0,Individual,23.84,,10+ years,Ship Operator/Supervisor1 Captain,24000.0,MORTGAGE,Dec-2014,Current,,11.0,0.0,debt_consolidation, 60 months,983xx,,,37821382
+622,UT,33000.0,Individual,23.38,,4 years,Administrative Assistant III,6500.0,MORTGAGE,Dec-2014,Charged Off,,8.0,0.0,debt_consolidation, 36 months,840xx,,,37800951
+623,IL,34990.0,Individual,18.66,,10+ years,Caregiver,6500.0,RENT,Dec-2014,Charged Off,,7.0,1.0,debt_consolidation, 36 months,606xx,,,37701404
+624,VA,45900.0,Individual,31.82,,1 year,Police Officer,10800.0,OWN,Dec-2014,Late (31-120 days),,12.0,0.0,debt_consolidation, 60 months,201xx,,,37601478
+625,SD,82500.0,Individual,13.79,,10+ years,Courier,18300.0,MORTGAGE,Dec-2014,Fully Paid,,4.0,0.0,debt_consolidation, 36 months,571xx,,,37601480
+626,CA,65000.0,Individual,6.74,,2 years,Portfolio Administrator,10000.0,RENT,Dec-2014,Fully Paid,,23.0,0.0,debt_consolidation, 36 months,950xx,,,37651345
+627,NC,150000.0,Individual,3.38,,< 1 year,Audit Manager,14000.0,OWN,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 60 months,282xx,,,37801469
+628,NC,105000.0,Individual,23.52,,2 years,Senior Database Administrator,30000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,276xx,,,37641358
+629,GA,65000.0,Individual,10.4,,1 year,prop maker,8000.0,MORTGAGE,Dec-2014,Fully Paid,,17.0,1.0,debt_consolidation, 36 months,301xx,,,37841343
+630,OH,65000.0,Individual,20.57,,10+ years,pipefitter,15700.0,MORTGAGE,Dec-2014,Fully Paid,,17.0,1.0,debt_consolidation, 60 months,447xx,,,37127527
+631,CA,153000.0,Individual,1.32,,5 years,Senior Staff Engineer/Manager,35000.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,major_purchase, 36 months,921xx,,,37287167
+632,TX,45000.0,Individual,18.67,,< 1 year,teacher,6450.0,RENT,Dec-2014,Fully Paid,,29.0,0.0,debt_consolidation, 36 months,785xx,,,37651327
+633,CA,100000.0,Individual,10.26,,3 years,Post Producer,14000.0,OWN,Dec-2014,Fully Paid,,8.0,0.0,home_improvement, 36 months,900xx,,,37731313
+634,SC,49000.0,Individual,26.35,,10+ years,Personnel Manager,12000.0,MORTGAGE,Dec-2014,Fully Paid,,14.0,1.0,debt_consolidation, 36 months,295xx,,,37651312
+635,AL,50000.0,Individual,15.39,,1 year,Electrician,6000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,home_improvement, 36 months,354xx,,,37681309
+636,UT,250000.0,Individual,9.66,,10+ years,"President, CEO",30000.0,MORTGAGE,Dec-2014,Fully Paid,,13.0,0.0,debt_consolidation, 36 months,841xx,,,37147634
+637,NJ,63000.0,Individual,19.9,,< 1 year,pharmacist,25000.0,RENT,Dec-2014,Current,,21.0,0.0,debt_consolidation, 60 months,085xx,,,37651287
+638,AZ,85000.0,Individual,16.65,,3 years,Marketing Manager,20400.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,852xx,,,37701328
+639,NY,140000.0,Individual,10.97,,10+ years,Vice Presdent,3800.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,108xx,,,37741369
+640,CA,65000.0,Individual,16.62,,5 years,Office Coordinator,29675.0,RENT,Dec-2014,Late (31-120 days),,8.0,0.0,debt_consolidation, 60 months,951xx,,,37801410
+641,CA,60000.0,Individual,26.18,,,,12950.0,RENT,Dec-2014,Fully Paid,,14.0,0.0,other, 36 months,956xx,,,37630860
+642,CA,89000.0,Individual,9.68,,3 years,Clinical Specialist/Supervisor,7150.0,MORTGAGE,Dec-2014,Fully Paid,,14.0,0.0,other, 36 months,917xx,,,37701377
+643,CA,55480.0,Individual,10.5,,,,12375.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 60 months,953xx,,,37327544
+644,PA,52000.0,Individual,20.47,,3 years,Office Manager,18625.0,RENT,Dec-2014,Charged Off,,9.0,0.0,small_business, 36 months,193xx,,,36361523
+645,GA,35000.0,Individual,16.07,,1 year,Finance / Operations,7000.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,credit_card, 36 months,306xx,,,37840854
+646,CA,35000.0,Individual,20.95,,3 years,COMMUNITY HEALTH REP,4000.0,RENT,Dec-2014,Fully Paid,,4.0,0.0,debt_consolidation, 36 months,921xx,,,37771333
+647,TX,68940.0,Individual,28.49,,,,30275.0,MORTGAGE,Dec-2014,Charged Off,,18.0,0.0,debt_consolidation, 36 months,780xx,,,37821331
+648,IL,54000.0,Individual,25.69,,5 years,Debt Collector,15000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,7.0,debt_consolidation, 36 months,606xx,,,37771331
+649,CO,150000.0,Individual,5.4,,10+ years,Team Lead Managed Service and M-FRAT,15000.0,MORTGAGE,Dec-2014,Late (31-120 days),,12.0,1.0,debt_consolidation, 60 months,800xx,,,37711348
+650,NV,24000.0,Individual,18.0,,,,8000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,1.0,debt_consolidation, 36 months,891xx,,,37701332
+651,OR,52000.0,Individual,30.76,,10+ years,Sr Commercial Technician,18750.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,975xx,,,37641323
+652,MA,111000.0,Individual,21.94,,2 years,VP Lending,35000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 60 months,010xx,,,37811391
+653,CO,230000.0,Individual,8.06,,< 1 year,Sales Manager,15000.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 60 months,801xx,,,37741341
+654,CA,92000.0,Individual,2.14,,10+ years,REVENUE MANAGER,14000.0,RENT,Dec-2014,Late (31-120 days),,3.0,0.0,medical, 60 months,941xx,,,37671369
+655,MS,78000.0,Individual,11.08,,6 years,REGISTERED NURSE,9600.0,MORTGAGE,Dec-2014,Charged Off,,13.0,1.0,debt_consolidation, 36 months,395xx,,,37841307
+656,WI,197000.0,Individual,13.8,,10+ years,Director Consumer Insights & Strategy,35000.0,MORTGAGE,Dec-2014,Current,,12.0,0.0,credit_card, 60 months,531xx,,,37601423
+657,NJ,38480.0,Individual,14.29,,4 years,bookkeeper,5000.0,RENT,Dec-2014,Fully Paid,,7.0,1.0,debt_consolidation, 36 months,082xx,,,35763229
+658,TX,75000.0,Individual,13.65,,10+ years,Educational Diagnostician,2000.0,OWN,Dec-2014,Fully Paid,,10.0,0.0,major_purchase, 36 months,773xx,,,37811352
+659,OR,49000.0,Individual,23.12,,1 year,credentialing specialist,6400.0,RENT,Dec-2014,Charged Off,,15.0,0.0,debt_consolidation, 36 months,972xx,,,37801417
+660,FL,40000.0,Individual,20.13,,5 years,business office specialist,10000.0,RENT,Dec-2014,Charged Off,,10.0,0.0,debt_consolidation, 36 months,336xx,,,36049003
+661,NY,96000.0,Individual,13.6,,10+ years,Financial Control,10000.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,debt_consolidation, 36 months,100xx,,,37690814
+662,VA,86400.0,Individual,8.74,,2 years,Sr. Business Change Manager,8000.0,RENT,Dec-2014,Fully Paid,,5.0,0.0,other, 36 months,236xx,,,37821318
+663,WV,99600.0,Individual,22.95,,6 years,Security Specialist,18000.0,RENT,Dec-2014,Fully Paid,,7.0,0.0,credit_card, 36 months,254xx,,,37741326
+664,MO,43920.0,Individual,21.75,,8 years,administrative assistant,8000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,1.0,major_purchase, 36 months,641xx,,,37681342
+665,NV,125000.0,Individual,16.43,,10+ years,VP Core Cash Access Services,5000.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,debt_consolidation, 36 months,891xx,,,37711342
+666,CA,150000.0,Individual,3.7,,10+ years,registered nurse,15000.0,OWN,Dec-2014,Fully Paid,,9.0,1.0,debt_consolidation, 36 months,921xx,,,37631325
+667,CA,80000.0,Individual,22.17,,2 years,Financial Analyst,14000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,credit_card, 36 months,949xx,,,37671328
+668,GA,60000.0,Individual,14.17,,2 years,Manager,14000.0,RENT,Dec-2014,Fully Paid,,5.0,0.0,debt_consolidation, 36 months,300xx,,,37791306
+669,FL,125000.0,Individual,19.27,,1 year,Engineer,35000.0,OWN,Dec-2014,Fully Paid,,9.0,0.0,credit_card, 36 months,322xx,,,37611397
+670,VA,40000.0,Individual,9.96,,10+ years,General Manager,14000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,224xx,,,37731243
+671,LA,80000.0,Individual,21.12,,5 years,Air Traffic Control Specialist,20000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,714xx,,,37671298
+672,CA,63500.0,Individual,15.25,,9 years,Programs Manager,6500.0,RENT,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 36 months,958xx,,,37077921
+673,MI,47000.0,Individual,5.57,,10+ years,Supervisor - Bird Dept.,8000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,1.0,debt_consolidation, 36 months,482xx,,,37691384
+674,LA,100000.0,Individual,11.63,,10+ years,Operator / Tech ,2000.0,OWN,Dec-2014,Fully Paid,,13.0,0.0,other, 36 months,703xx,,,37811389
+675,FL,90000.0,Individual,7.41,,1 year,Service Manager,15000.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,debt_consolidation, 36 months,331xx,,,37621371
+676,CA,54000.0,Individual,14.4,,10+ years,Sales Administration Manager,5000.0,RENT,Dec-2014,Charged Off,,9.0,0.0,debt_consolidation, 36 months,907xx,,,37661348
+677,AZ,45000.0,Individual,27.25,,< 1 year,Loan Originator,12000.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,1.0,debt_consolidation, 36 months,850xx,,,37721383
+678,OH,40000.0,Individual,17.52,,10+ years,MERC WORKLOAD CLERK,1000.0,MORTGAGE,Dec-2014,Fully Paid,,10.0,1.0,other, 36 months,454xx,,,37841314
+679,NY,135000.0,Individual,6.26,,1 year,Investment Banker,6000.0,RENT,Dec-2014,Fully Paid,,19.0,0.0,debt_consolidation, 36 months,112xx,,,37831326
+680,UT,34750.0,Individual,25.15,,8 years,Merchandising Manager,8400.0,OWN,Dec-2014,Current,,9.0,0.0,debt_consolidation, 36 months,840xx,,,37791309
+681,MA,550000.0,Individual,9.58,,10+ years,Senior Vice President,16000.0,MORTGAGE,Dec-2014,Fully Paid,,20.0,0.0,medical, 36 months,017xx,,,37741374
+682,CA,60000.0,Individual,18.12,,1 year,Shop Foreman,5400.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,0.0,car, 36 months,917xx,,,37711341
+683,VA,75000.0,Individual,21.17,,10+ years,steam power operator,11000.0,MORTGAGE,Dec-2014,Charged Off,,13.0,0.0,debt_consolidation, 60 months,242xx,,,37811405
+684,AR,55000.0,Individual,12.94,,1 year,Manager,4500.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,debt_consolidation, 36 months,727xx,,,37771322
+685,IN,75000.0,Individual,21.16,,< 1 year,Executive Assistant,35000.0,MORTGAGE,Dec-2014,Fully Paid,,12.0,0.0,credit_card, 60 months,461xx,,,37611403
+686,WA,55000.0,Individual,28.02,,8 years,Director of education,6400.0,MORTGAGE,Dec-2014,Fully Paid,,15.0,0.0,debt_consolidation, 36 months,983xx,,,37611437
+687,TX,79000.0,Individual,12.44,,7 years,Senior Systems Engineer,16000.0,RENT,Dec-2014,Fully Paid,,5.0,0.0,other, 36 months,751xx,,,37681338
+688,UT,32000.0,Individual,14.25,,6 years,C N A / Physical Therapy Aide,8000.0,RENT,Dec-2014,Fully Paid,,9.0,0.0,debt_consolidation, 36 months,841xx,,,37841313
+689,LA,91000.0,Individual,14.19,,10+ years,Business / Travel Administrator,20000.0,RENT,Dec-2014,Fully Paid,,4.0,0.0,major_purchase, 36 months,708xx,,,37307321
+690,IN,45000.0,Individual,15.73,,4 years,production,4700.0,MORTGAGE,Dec-2014,Fully Paid,,11.0,1.0,debt_consolidation, 36 months,479xx,,,37661355
+691,CA,72000.0,Individual,22.73,,4 years,Accountant,25000.0,RENT,Dec-2014,Fully Paid,,21.0,0.0,credit_card, 36 months,902xx,,,37711350
+692,CA,65000.0,Individual,11.07,,3 years,Cinematographer,12000.0,RENT,Dec-2014,Fully Paid,,5.0,0.0,debt_consolidation, 36 months,900xx,,,35854056
+693,NH,77000.0,Individual,16.79,,2 years,Software Developer,1000.0,RENT,Dec-2014,Fully Paid,,6.0,0.0,vacation, 36 months,038xx,,,37801423
+694,MA,100070.0,Individual,7.67,,10+ years,Marketing,10000.0,MORTGAGE,Dec-2014,Fully Paid,,3.0,0.0,medical, 36 months,018xx,,,37781409
+695,FL,43000.0,Individual,24.28,,4 years,Medical Assistant,8000.0,RENT,Dec-2014,Fully Paid,,14.0,1.0,credit_card, 36 months,328xx,,,37831302
+696,IL,41600.0,Individual,20.23,,10+ years,warehouse worker,16575.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,1.0,debt_consolidation, 36 months,613xx,,,37831296
+697,TX,300000.0,Individual,12.87,,2 years,Vice President,28000.0,MORTGAGE,Dec-2014,Fully Paid,,9.0,0.0,major_purchase, 36 months,787xx,,,37631346
+698,MT,47000.0,Individual,19.02,,3 years,Great Falls Job Service Supervisor ,12000.0,MORTGAGE,Dec-2014,Current,,20.0,0.0,debt_consolidation, 60 months,594xx,,,37621249
+699,OH,42000.0,Individual,19.97,,3 years,Power Lineworker I,11450.0,MORTGAGE,Dec-2014,Fully Paid,,8.0,0.0,credit_card, 36 months,435xx,,,37791282
+700,TX,84000.0,Individual,12.73,,< 1 year,Manager,28000.0,MORTGAGE,Dec-2014,Fully Paid,,18.0,0.0,debt_consolidation, 36 months,760xx,,,37761323
