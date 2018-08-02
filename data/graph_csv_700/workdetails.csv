@@ -1,0 +1,648 @@
+workId:ID(Work),emp_length,emp_title
+1,10+ years,MANAGEMENT
+2,8 years,Truck Driver Delivery Personel
+3,6 years,Programming Analysis Supervisor
+4,10+ years,Senior Sales Professional
+5,< 1 year,Technical Specialist
+6,10+ years,Admin Specialist
+7,< 1 year,Manufacturing Engineer
+8,6 years,Foreign Service Officer
+9,10+ years,Teacher
+10,2 years,Store Manager
+11,8 years,Investment Consultant
+12,10+ years,Sales
+13,10+ years,Deputy sheriff
+14,10+ years,Paralegal
+15,10+ years,Assistant manager
+16,8 years,practice plan associate
+17,9 years,Respiratory Therapist
+18,7 years,Student Services Coordinator
+19,2 years,Sales Rep
+20,5 years,nurse
+21,5 years,Director of Operations
+22,10+ years,first grade teacher
+23,3 years,Attorney
+24,1 year,office manager
+25,8 years,Education Advising Manager
+26,,
+27,8 years,Asset Protection
+28,10+ years,construction foreman
+29,2 years,Humana Cares Manager
+30,9 years,Accounting clerk
+31,3 years,Appraiser
+32,4 years,Teacher
+33,7 years,Store Manager
+34,< 1 year,Financial Advisor
+35,10+ years,Fleet Tech III
+36,7 years,Cash Mgmt Clerk
+37,10+ years,Senior Software Engineer
+38,8 years,Owner
+39,< 1 year,High Pressure Plant Tender
+40,3 years,Department Chair Undergraduate Marketing
+41,10+ years,E-6/Technical Sergeant
+42,2 years,Community Manager
+43,1 year,Graduate Teaching Assistant
+44,10+ years,Accouting Manager
+45,10+ years,Export Analyst
+46,< 1 year,Risk Management Program Coordinator
+47,10+ years,operator
+48,3 years,Senior Logistics Analyst
+49,3 years,Pilot
+50,10+ years,Associate Director Flight Operations
+51,10+ years,engineer
+52,1 year,Senior Care Coordinator
+53,10+ years,administrative assistant
+54,9 years,Customerservice
+55,7 years,Sgt
+56,2 years,Industrial Worker
+57,10+ years,machinist
+58,10+ years,RN
+59,4 years,Nurse
+60,10+ years,Teacher/Admin
+61,10+ years,dispatch supv
+62,4 years,Nanny
+63,10+ years,"Manager, Information Technology"
+64,4 years,HEAD TELLER
+65,10+ years,"Exec Budget Coord, Acad"
+66,5 years,Financial Institution Specialist
+67,8 years,Weather forecaster
+68,1 year,Psych Therapyst 
+69,2 years,International Adviser
+70,6 years,Milk Lab Manager
+71,10+ years,911 Director
+72,5 years,relationship manager
+73,5 years,Technologist
+74,10+ years,Business Manager
+75,6 years,Production Assistant
+76,8 years,Accountant
+77,1 year,loan officer
+78,8 years,Project Manager
+79,10+ years,Associate Professor
+80,3 years,Customer Service Manager
+81,2 years,Cybersecuriity specialst
+82,10+ years,Doorman
+83,3 years,Iron worker/ welder
+84,3 years,Mechanic
+85,7 years,Consultant
+86,4 years,Physician
+87,10+ years,"Manager, Regulatory"
+88,5 years,Front Desk
+90,6 years,buyer
+91,7 years,IT specialist
+92,5 years,occupational therapist
+93,2 years,Logistics Team Lead
+94,2 years,Vocational Rehabilitation Counselor
+95,4 years,LVN
+96,10+ years,Clinical Data Lead
+97,10+ years,Dept. Manager
+98,5 years,Sales Manager
+99,5 years,Associate
+100,10+ years,Housekeeping Supervisor
+101,5 years,HR Supervisor
+102,5 years,Principal
+103,1 year,Director
+104,10+ years,Firefighter
+105,3 years,director
+106,4 years,Bus Friver
+107,< 1 year,Sr manager
+108,3 years,Application Software Developer
+109,3 years,Production Manager
+111,10+ years,production controller
+112,1 year,Technical Support Associate
+113,9 years,Sales 
+114,2 years,Shop Manager 
+115,4 years,Physical Security
+116,10+ years,clerk
+117,10+ years,rn
+118,10+ years,Monitor tech/secretary
+119,2 years,Truck Driver
+120,10+ years,manager
+121,2 years,DRP Planner
+122,2 years,Teacher
+123,2 years,Assistant Vice President - Finance
+124,8 years,Furnace Operator
+125,10+ years,DC1
+126,2 years,Dir. of Community Standards
+127,1 year,Credit Analyst
+128,10+ years,Senior Analyst
+129,2 years,management  
+130,3 years,Owner
+131,5 years,Teacher
+132,5 years,Region Manager
+133,7 years,Engineer
+134,7 years,General Manager
+135,9 years,Workforce Manager
+136,10+ years,Field Service Engineer
+137,7 years,sales
+138,10+ years,Deputy Attorney IV 
+139,10+ years,MANAGER
+140,10+ years,senior chief
+141,10+ years,Quality Documentation Group Leader
+142,2 years,Graphic Designer
+143,10+ years,Circulation Suoervisor
+144,< 1 year,Program Assistant
+145,6 years,Infrastructure Architecht
+146,9 years,Adjuster
+147,2 years,butcher block supervisor
+148,10+ years,Assistant Manager
+149,10+ years,Superintendent
+150,10+ years,Senior IT Proj Manager
+151,< 1 year,Systems Engineer
+152,9 years,Administrative Supervisor
+153,4 years,Contract Specialist
+154,6 years,Helpdesk L2
+155,1 year,Communications Manager
+156,7 years,Manager
+157,10+ years,Medical office admin.
+158,10+ years,Team Lead
+159,3 years,Registered Nurse
+160,10+ years,Administrative Assistant
+161,2 years,Recruiter
+163,10+ years,"eVP, Senior Director"
+164,8 years,QA Manager
+165,2 years,Process Engineer
+166,5 years,"Director, Finance"
+167,< 1 year,parks dept.
+168,10+ years,sales
+169,10+ years,Captain/Paramedic
+170,< 1 year,Teacher
+172,3 years,Branch Manager
+173,10+ years,Executive IT Leader
+174,10+ years,Maintenance
+175,< 1 year,Senior UI Engineer
+176,7 years,RN
+177,10+ years,Admin Assistant
+178,3 years,Construction Scheduler
+179,7 years,IT Manager
+181,10+ years,Office Manager
+182,10+ years,civ. supervisor
+183,10+ years,Pricing & Bid coordinator
+184,< 1 year,Sales
+185,10+ years,Hat Merchandiser
+186,1 year,biomedical engineering technologist
+187,10+ years,Registered Nurse
+188,3 years,VP of IT
+189,2 years,Stationary Engineer
+190,3 years,Corporate Representative
+191,4 years,Habilitation Instructor
+192,< 1 year,Verification Specialist
+193,10+ years,DME Tech
+194,4 years,DBA
+195,10+ years,mfg analyst
+196,2 years,System Analyst
+197,1 year,Senior Field Service Technician
+198,< 1 year,Branch service specialist 
+199,3 years,Vice President of Video Services
+201,1 year,machine shop
+202,2 years,accounting/budget analyst
+204,9 years,Maintenance Worker
+205,10+ years,Engineer
+206,10+ years,technician
+207,4 years,Project Manager
+208,< 1 year,Application Engineer
+209,4 years,Broker
+210,9 years,Store manager
+211,1 year,Senior Director
+212,10+ years,3d artist
+213,4 years,Lead Applications
+214,2 years,Director of Institutional Effectiveness
+215,4 years,Owner/Attorney
+216,9 years,Supply tech 
+217,2 years,Project Engieer
+218,10+ years,Manager
+219,10+ years,Pastor
+220,2 years,Improvement Engineer
+221,5 years,Legal Secretary
+223,3 years,Attorney - Court Executive
+224,10+ years,Corrections Transportation Officer
+225,< 1 year,Accounting/Retail
+226,3 years,Consultant
+227,3 years,resident Manager
+228,3 years,Diamond specialist
+229,< 1 year,Bartender
+230,10+ years,Gate Inspector
+231,4 years,Server
+232,5 years,tractor trailer driver
+233,10+ years,Director of Financial Aid
+234,1 year,Analyst
+235,5 years,Property Manager
+236,10+ years,Advisory Data Engineer
+238,8 years,"Exec. Director-Inst. Rsch, Planning, & "
+239,10+ years,Carrier
+240,10+ years,Policy Analyst
+241,10+ years,Air Traffic Controller
+242,10+ years,Bursar
+243,1 year,Warehouse Specialist
+244,10+ years,Project Manager
+245,7 years,Finance Director
+246,< 1 year,Relationship Banker 
+249,2 years,Business Analyst
+250,4 years,mate
+251,5 years,office manager
+252,10+ years,Purchasing Manager
+253,7 years,Cad Operator 
+254,10+ years,dairy clerk
+255,4 years,School Counselor
+256,10+ years,IA
+257,10+ years,Engineering Technician
+258,10+ years,LOGISTICS
+259,4 years,Helpdesk Supervisor
+260,3 years,Police Officer
+261,10+ years,store manager
+262,10+ years,Superintendent 
+263,10+ years,Senior Inspector
+264,10+ years,Accounting Office Manager
+266,3 years,Shift Manager
+267,7 years,Office Administrator
+268,9 years,sales 
+269,< 1 year,Machinist
+270,< 1 year,Senior Consultant
+271,10+ years,Advanced Field Sales Rep
+272,5 years,sales
+273,3 years,Middle School Teacher
+275,10+ years,Faculty
+276,5 years,Server
+277,9 years,RDH
+278,< 1 year,Branch Office Administrator
+279,1 year,Catering driver
+280,9 years,Owner/Principlal
+281,6 years,CEO
+282,8 years,Office Manager
+283,8 years,E-6
+284,1 year,Behavioral Heath Associate
+285,2 years,Marketing and Sales Manager
+286,3 years,Business Development
+287,< 1 year,Superintendent
+288,1 year,Content Producer
+289,5 years,Research Assistant
+290,8 years,Senior Pastor
+291,3 years,Operations
+292,2 years,Parapro
+293,3 years,Supply Chain Analyst
+294,10+ years,SERVICE TECH
+295,3 years,Housekeeper
+296,4 years,Compliance Officer
+297,7 years,patient care tech
+298,3 years,Parts Specialist
+299,10+ years,Vice President
+300,7 years,Office Manager
+301,4 years,RN Supervisor
+302,4 years,Pilot
+303,8 years,semi driver
+304,7 years,Claims Manager
+305,8 years,Realtor
+306,3 years,Managing Partner
+307,2 years,Legal Assistant
+308,5 years,account executive
+309,2 years,Administrative Assistant
+310,8 years,Teacher
+311,10+ years,Certified School Counselor
+312,3 years,cook
+313,10+ years,Executive Director
+314,10+ years,Financial Manager
+315,1 year,Facility Coordinator
+316,10+ years,Admin Asst
+317,10+ years,Permanent AB
+318,< 1 year,Personal Banker
+319,3 years,Sr. Director of Recruiting 
+320,10+ years,Business consultant trainer
+321,2 years,owner/operator
+322,5 years,Office Manager
+326,8 years,Field Service Tech
+327,< 1 year,"Associate Director, Relationship Mgmt."
+328,10+ years,Asst. Section Head
+329,6 years,Client Services Account Manager
+330,1 year,customer service representative
+331,8 years,Police Officer
+333,10+ years,Manufacturing Engineer
+334,7 years,Technology Coordinator
+335,10+ years,Department Manager
+336,4 years,IT SPECIALIST
+338,10+ years,Data Manager
+339,4 years,Business Analyst
+340,< 1 year,Vice President - Control Manager
+341,< 1 year,Senior Compliance Manager
+342,2 years,Service Delivery Manager - Nike
+343,2 years,Diabetes Care Specialist 
+344,2 years,Secretary
+345,10+ years,Administrative Specialist
+346,10+ years,Staff Information Systems Analyst
+347,8 years,Community Housing Officer
+348,2 years,Marketing Executive
+349,1 year,School Psychologist 
+350,8 years,teacher
+351,10+ years,Field tech
+352,5 years,Office manager/bookkeeper
+353,< 1 year,Financial Analyst
+354,< 1 year,Software Engineer
+355,9 years,specialty lab technician
+356,4 years,Radio Frequency Engineer
+357,10+ years,Instructor
+358,10+ years,Owner/master groomer
+359,1 year,Front Office Supervisor 
+362,10+ years,Operations Manager
+363,10+ years,PROGRAM MANAGER
+364,10+ years,District Manager
+365,3 years,Director
+366,< 1 year,associate
+367,9 years,Logistics Specialist
+368,2 years,Director Facilities
+369,3 years,"DIRECTOR, HUMAN RESOURCES"
+370,< 1 year,admission
+371,10+ years,Service Director
+372,1 year,Case Manager
+373,10+ years,CICS Systems Programmer
+374,2 years,"Architect, Engineering"
+375,10+ years,Claims
+377,2 years,Solutions Engineer
+379,5 years,System Administrator
+380,10+ years,Internet engineer
+381,10+ years,unit director
+382,10+ years,Dentist/owner
+383,10+ years,TRAIN OPERATOR
+384,7 years,driver
+385,< 1 year,Resource Manager
+386,5 years,Financial admin
+387,< 1 year,Vice President
+388,2 years,Consultant
+389,10+ years,teacher
+390,10+ years,warehouse
+391,10+ years,Sr. Technology Specialist
+392,,store manager
+394,7 years,Draftsman
+395,< 1 year,Hotel Sales Coordinator
+396,< 1 year,Customer Care Specialust
+398,3 years,Assistant Store Manager
+399,3 years,Manager
+400,4 years,Financial Services Analyst
+401,5 years,UP
+402,1 year,Social Worker
+403,7 years,SEIT
+404,2 years,District Manager
+405,10+ years,store director
+406,10+ years,Senior Systems Engineer
+407,2 years,Manager of Business Process Analysis
+408,< 1 year,Security
+409,10+ years,Chg RN
+410,4 years,Account Leader
+411,2 years,Supervisor
+412,10+ years,nurse
+413,10+ years,Sergeant first class
+414,10+ years,tech
+415,9 years,NURSE ASSISTANT 
+416,10+ years,Manuscript Editor
+417,10+ years,Staff pathologist
+418,2 years,Applications Engineer Senior
+419,4 years,Investment Grade Salesmen
+420,10+ years,avp deposit operations
+421,10+ years,Credit Manager
+422,10+ years,Criminal Clerk
+423,10+ years,Lead QA Analyst
+424,10+ years,Engineering Manager
+425,1 year,Partner Analytics Manager
+426,2 years,Broadband Technician
+427,2 years,Service Technician
+428,8 years,Locksmith
+429,< 1 year,Operations Management
+430,9 years,Regional Vice President
+431,10+ years,teacher asst
+432,1 year,construction
+433,4 years,occupational therapist
+434,10+ years,Consumer loan underwriter
+435,10+ years,District Coordinator
+436,10+ years,Social Worker
+437,4 years,Medical Science Liaison
+438,6 years,driver
+439,< 1 year,RN
+441,2 years,Senior Product Manager
+442,7 years,VP of Sales
+443,5 years,Human Services Manager
+444,< 1 year,Sr ETL Architect
+445,< 1 year,President
+446,10+ years,Senior Site Rep
+447,6 years,Sr. Systems Integration Analyst
+449,5 years,ARMY OFFICER
+450,10+ years,Senior Veterinary Technician
+451,7 years,Bingo Agent
+452,10+ years,heavy equipment operator
+453,4 years,Sales
+454,2 years,AML Compliance Officer
+455,2 years,POS Developer
+456,10+ years,school bus attendant
+457,9 years,General Manager
+458,3 years,Maintenance
+459,10+ years,Business Systems Consultant
+460,2 years,Communications Manager
+461,< 1 year,Salesman
+462,< 1 year,BI Analyst
+463,3 years,Assoc Director
+464,9 years,Quality Assurance Specialist
+465,8 years,Supervisor
+466,10+ years,MWO Coordinator I 
+468,4 years,Hygienist
+471,< 1 year,Category Advisor
+472,10+ years,Police Corporal
+474,4 years,driver
+475,10+ years,Clinical Nurse Manager
+476,2 years,Research Scientist 
+477,6 years,Human Resources Manager
+478,9 years,sales
+479,10+ years,service tech
+480,10+ years,Electrician
+481,4 years,internal auditor senior lll
+482,10+ years,CNA
+483,10+ years,supervisor
+484,10+ years,owner opertor
+486,6 years,Cstl-pit manager
+487,10+ years,Assembler
+488,10+ years,IT Audit Specialist
+489,8 years,Manager
+490,5 years,Manager
+491,2 years,Project Manager
+492,10+ years,ROTC Instructor
+493,5 years,manager
+494,1 year,Senior Associate
+496,7 years,Clinical Research Project Manager Health
+497,2 years,IT Manager
+498,10+ years,Operations Assistant
+501,2 years,Owner/Therapist
+502,7 years,Program Manager
+503,5 years,Account Executive
+505,10+ years,Sergeant
+506,1 year,Account executive
+507,5 years,Loan Officer
+508,< 1 year,Linguist-Translator
+509,10+ years,"Asst. Vice President, Team Leader"
+510,1 year,International Project Supervisor
+512,2 years,Manager
+513,2 years,CFO
+514,10+ years,Installer
+515,6 years,Registered Dental Hygienist
+516,10+ years,Sales Rep
+517,< 1 year,Hospital Services Coordinator
+518,9 years,paraprofessional
+519,10+ years,machine operator
+520,6 years,Atmospheric Scientist
+521,5 years,National Sales Manager
+523,3 years,Manager - Corporate Reimbursement
+524,4 years,Lead Software Developer
+525,10+ years,Billing Supervisor
+526,6 years,Instructor
+527,1 year,Doctor
+528,10+ years,communications officer 1
+529,10+ years,warehouse manager
+530,3 years,Regional Sales Manager
+531,10+ years,Account Executive
+532,10+ years,Director
+533,10+ years,Eligibility Specialist Supervisor
+534,10+ years,facility service
+535,5 years,Business Office Manager
+536,2 years,Sr. App Analyst
+537,10+ years,Sous chef
+538,10+ years,auto tect
+540,2 years,Patent Paralegala
+541,10+ years,Assistant Superintendent
+542,5 years,Patrolman
+543,10+ years,Sales Manager
+544,3 years,IT Specialist
+545,3 years,Seaman
+546,6 years,sales
+547,< 1 year,First Officer
+548,9 years,Network Operation
+549,10+ years,Instructional Designer
+550,3 years,substitute teacher/social worker
+551,3 years,Mortgage Banker
+552,8 years,owner
+553,10+ years,Customer Support Rep
+554,10+ years,highway maintenance supervisor
+555,3 years,Full time RN
+556,< 1 year,GENERAL LEDGER ACCOUNTANT
+557,8 years,RN
+558,10+ years,attorney/owner
+560,3 years,OTR driver
+561,10+ years,director business development
+562,7 years,CEO
+563,< 1 year,Sales Consultant
+564,< 1 year,Insurance agent
+565,3 years,RN CASE MANAGER
+566,4 years,Assembly
+567,10+ years,pharmacy tech
+568,10+ years,Product Manager
+569,10+ years,System Engineer
+571,2 years,Administrative Director
+572,10+ years,Printing/macine operator
+573,8 years,Registered Nurse
+575,10+ years,Staff RN
+576,5 years,CNA
+577,10+ years,Military
+578,10+ years,Counsel
+579,5 years,sales manager
+580,1 year,Dean of Student Engagement 
+582,5 years,Optical Manager 
+583,10+ years,Construction worker
+584,10+ years,Correctional Counselor II
+585,5 years,Examiner
+586,10+ years,Supervisor
+587,10+ years,System Analyst
+588,10+ years,Marketing Analyst
+589,3 years,Assistant Director
+590,10+ years,Gunnery Sergeant
+591,10+ years,Flight Attendant
+593,7 years,Senior Research Associate
+595,1 year,Business Analyst
+597,9 years,aviation safety inspector
+598,1 year,winder
+599,1 year,Audit Manager
+600,10+ years,Foreign Service
+601,8 years,Logistic Administrator
+602,2 years,Operations Support Coordinator
+603,1 year,Maintenance Technician
+606,8 years,service tech
+607,10+ years,Police Officer
+608,2 years,Phlebotomist
+609,3 years,Director of Support Services
+610,5 years,service advisor
+611,9 years,Social Worker
+612,< 1 year,Senior Paralegal
+613,2 years,store manager
+614,2 years,Financial Analyst
+615,8 years,hairdresser
+616,10+ years,Regional Infrastructure Manager
+618,10+ years,President; majority shareholder
+619,9 years,owner
+620,4 years,Systems Engineer 3
+621,5 years,Physician
+622,10+ years,Ship Operator/Supervisor1 Captain
+623,4 years,Administrative Assistant III
+624,10+ years,Caregiver
+625,1 year,Police Officer
+626,10+ years,Courier
+627,2 years,Portfolio Administrator
+628,< 1 year,Audit Manager
+629,2 years,Senior Database Administrator
+630,1 year,prop maker
+631,10+ years,pipefitter
+632,5 years,Senior Staff Engineer/Manager
+633,< 1 year,teacher
+634,3 years,Post Producer
+635,10+ years,Personnel Manager
+636,1 year,Electrician
+637,10+ years,"President, CEO"
+638,< 1 year,pharmacist
+639,3 years,Marketing Manager
+640,10+ years,Vice Presdent
+641,5 years,Office Coordinator
+643,3 years,Clinical Specialist/Supervisor
+645,3 years,Office Manager
+646,1 year,Finance / Operations
+647,3 years,COMMUNITY HEALTH REP
+649,5 years,Debt Collector
+650,10+ years,Team Lead Managed Service and M-FRAT
+652,10+ years,Sr Commercial Technician
+653,2 years,VP Lending
+654,< 1 year,Sales Manager
+655,10+ years,REVENUE MANAGER
+656,6 years,REGISTERED NURSE
+657,10+ years,Director Consumer Insights & Strategy
+658,4 years,bookkeeper
+659,10+ years,Educational Diagnostician
+660,1 year,credentialing specialist
+661,5 years,business office specialist
+662,10+ years,Financial Control
+663,2 years,Sr. Business Change Manager
+664,6 years,Security Specialist
+665,8 years,administrative assistant
+666,10+ years,VP Core Cash Access Services
+667,10+ years,registered nurse
+670,1 year,Engineer
+671,10+ years,General Manager
+672,5 years,Air Traffic Control Specialist
+673,9 years,Programs Manager
+674,10+ years,Supervisor - Bird Dept.
+675,10+ years,Operator / Tech 
+676,1 year,Service Manager
+677,10+ years,Sales Administration Manager
+678,< 1 year,Loan Originator
+679,10+ years,MERC WORKLOAD CLERK
+680,1 year,Investment Banker
+681,8 years,Merchandising Manager
+682,10+ years,Senior Vice President
+683,1 year,Shop Foreman
+684,10+ years,steam power operator
+685,1 year,Manager
+686,< 1 year,Executive Assistant
+687,8 years,Director of education
+688,7 years,Senior Systems Engineer
+689,6 years,C N A / Physical Therapy Aide
+690,10+ years,Business / Travel Administrator
+691,4 years,production
+692,4 years,Accountant
+693,3 years,Cinematographer
+694,2 years,Software Developer
+695,10+ years,Marketing
+696,4 years,Medical Assistant
+697,10+ years,warehouse worker
+698,2 years,Vice President
+699,3 years,Great Falls Job Service Supervisor 
+700,3 years,Power Lineworker I
+701,< 1 year,Manager

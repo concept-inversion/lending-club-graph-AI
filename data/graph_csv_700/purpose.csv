@@ -1,0 +1,12 @@
+purposeId:ID(Purpose),purpose
+1,debt_consolidation
+2,credit_card
+4,car
+7,home_improvement
+12,house
+17,medical
+18,other
+44,moving
+62,major_purchase
+130,vacation
+188,small_business

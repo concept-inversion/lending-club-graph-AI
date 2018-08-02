@@ -1,0 +1,5 @@
+LoanstsId:ID(Loansts),loan_status
+1,Fully Paid
+2,Charged Off
+4,Current
+439,Late (31-120 days)
