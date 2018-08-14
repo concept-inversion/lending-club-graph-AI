@@ -16,11 +16,8 @@ mths_since_last_record
 next_pymnt_d
 recoveries
 revol_bal
-revol_util
-total_acc
 total_rec_late_fee
 total_rec_prncp
-zip_code
 open_acc_6m
 open_il_12m
 mths_since_rcnt_il
